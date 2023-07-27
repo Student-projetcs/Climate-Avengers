@@ -1,0 +1,1136 @@
+,region,country,emissions,source,type,segment,reason,year,notes
+1,Africa,Algeria,0.0520000010728836,IEA,Energy,Bioenergy,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+2,Africa,Algeria,130.7989959716797,IEA,Energy,Gas pipelines and LNG facilities,Fugitive,2022,
+3,Africa,Algeria,69.74189758300781,IEA,Energy,Gas pipelines and LNG facilities,Vented,2022,
+4,Africa,Algeria,213.98699951171875,IEA,Energy,Onshore gas,Fugitive,2022,
+5,Africa,Algeria,464.3080139160156,IEA,Energy,Onshore gas,Vented,2022,
+6,Africa,Algeria,469.7869873046875,IEA,Energy,Onshore oil,Flared,2022,
+7,Africa,Algeria,85.18720245361328,IEA,Energy,Onshore oil,Fugitive,2022,
+8,Africa,Algeria,1154.1199951171875,IEA,Energy,Onshore oil,Vented,2022,
+9,Africa,Algeria,0.0040000001899898,IEA,Energy,Other from coal,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+10,Africa,Algeria,14.208550453186035,IEA,Energy,Other from oil and gas,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+11,Africa,Algeria,67.0,IEA,Energy,Satellite-detected large oil and gas emissions,All,2022,
+12,Africa,Algeria,2669.194580078125,IEA,Energy,Total,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+16,Africa,Angola,57.34000015258789,IEA,Energy,Bioenergy,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+17,Africa,Angola,2.59168004989624,IEA,Energy,Gas pipelines and LNG facilities,Fugitive,2022,
+18,Africa,Angola,1.3818800449371338,IEA,Energy,Gas pipelines and LNG facilities,Vented,2022,
+19,Africa,Angola,47.64350128173828,IEA,Energy,Offshore oil,Flared,2022,
+20,Africa,Angola,29.42110061645508,IEA,Energy,Offshore oil,Fugitive,2022,
+21,Africa,Angola,398.60101318359375,IEA,Energy,Offshore oil,Vented,2022,
+22,Africa,Angola,3.96235990524292,IEA,Energy,Onshore gas,Fugitive,2022,
+23,Africa,Angola,8.59749984741211,IEA,Energy,Onshore gas,Vented,2022,
+24,Africa,Angola,0.9559029936790466,IEA,Energy,Onshore oil,Flared,2022,
+25,Africa,Angola,1.1315900087356567,IEA,Energy,Onshore oil,Fugitive,2022,
+26,Africa,Angola,15.330900192260742,IEA,Energy,Onshore oil,Vented,2022,
+27,Africa,Angola,1.775954008102417,IEA,Energy,Other from oil and gas,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+28,Africa,Angola,568.7333374023438,IEA,Energy,Total,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+32,Africa,Benin,24.61199951171875,IEA,Energy,Bioenergy,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+33,Africa,Benin,0.0987560003995895,IEA,Energy,Gas pipelines and LNG facilities,Fugitive,2022,
+34,Africa,Benin,0.0526567995548248,IEA,Energy,Gas pipelines and LNG facilities,Vented,2022,
+35,Africa,Benin,0.0280000008642673,IEA,Energy,Other from coal,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+36,Africa,Benin,1.837127447128296,IEA,Energy,Other from oil and gas,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+37,Africa,Benin,26.6285400390625,IEA,Energy,Total,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+41,Africa,Botswana,5.4079999923706055,IEA,Energy,Bioenergy,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+42,Africa,Botswana,0.0144058996811509,IEA,Energy,Onshore gas,Fugitive,2022,
+43,Africa,Botswana,0.031257901340723,IEA,Energy,Onshore gas,Vented,2022,
+44,Africa,Botswana,0.0839999988675117,IEA,Energy,Other from coal,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+45,Africa,Botswana,0.6615587472915649,IEA,Energy,Other from oil and gas,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+46,Africa,Botswana,6.199222564697266,IEA,Energy,Total,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+50,Africa,Cameroon,74.33999633789062,IEA,Energy,Bioenergy,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+51,Africa,Cameroon,1.912750005722046,IEA,Energy,Gas pipelines and LNG facilities,Fugitive,2022,
+52,Africa,Cameroon,1.0198800563812256,IEA,Energy,Gas pipelines and LNG facilities,Vented,2022,
+53,Africa,Cameroon,4.4021100997924805,IEA,Energy,Offshore gas,Fugitive,2022,
+54,Africa,Cameroon,9.55165958404541,IEA,Energy,Offshore gas,Vented,2022,
+55,Africa,Cameroon,49.95370101928711,IEA,Energy,Offshore oil,Flared,2022,
+56,Africa,Cameroon,5.083970069885254,IEA,Energy,Offshore oil,Fugitive,2022,
+57,Africa,Cameroon,68.87809753417969,IEA,Energy,Offshore oil,Vented,2022,
+58,Africa,Cameroon,0.1206419989466667,IEA,Energy,Onshore gas,Fugitive,2022,
+59,Africa,Cameroon,0.2617689967155456,IEA,Energy,Onshore gas,Vented,2022,
+60,Africa,Cameroon,1.0361886024475098,IEA,Energy,Other from oil and gas,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+61,Africa,Cameroon,216.56077575683597,IEA,Energy,Total,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+68,Africa,Chad,8.433979988098145,IEA,Energy,Onshore oil,Flared,2022,
+69,Africa,Chad,2.9542698860168457,IEA,Energy,Onshore oil,Fugitive,2022,
+70,Africa,Chad,40.02470016479492,IEA,Energy,Onshore oil,Vented,2022,
+71,Africa,Chad,0.0040000001899898,IEA,Energy,Other from oil and gas,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+72,Africa,Chad,51.41695022583008,IEA,Energy,Total,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+76,Africa,Congo,15.684000015258787,IEA,Energy,Bioenergy,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+77,Africa,Congo,2.0187699794769287,IEA,Energy,Gas pipelines and LNG facilities,Fugitive,2022,
+78,Africa,Congo,1.0764100551605225,IEA,Energy,Gas pipelines and LNG facilities,Vented,2022,
+79,Africa,Congo,0.3759799897670746,IEA,Energy,Offshore gas,Fugitive,2022,
+80,Africa,Congo,0.8157989978790283,IEA,Energy,Offshore gas,Vented,2022,
+81,Africa,Congo,49.39789962768555,IEA,Energy,Offshore oil,Flared,2022,
+82,Africa,Congo,12.04539966583252,IEA,Energy,Offshore oil,Fugitive,2022,
+83,Africa,Congo,163.19200134277344,IEA,Energy,Offshore oil,Vented,2022,
+84,Africa,Congo,0.606069028377533,IEA,Energy,Onshore gas,Fugitive,2022,
+85,Africa,Congo,1.3150399923324585,IEA,Energy,Onshore gas,Vented,2022,
+86,Africa,Congo,3.497450113296509,IEA,Energy,Onshore oil,Flared,2022,
+87,Africa,Congo,0.9918609857559204,IEA,Energy,Onshore oil,Fugitive,2022,
+88,Africa,Congo,13.437800407409668,IEA,Energy,Onshore oil,Vented,2022,
+89,Africa,Congo,0.3122149407863617,IEA,Energy,Other from oil and gas,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+90,Africa,Congo,264.7666931152344,IEA,Energy,Total,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+94,Africa,Cote d'Ivoire,53.80400085449219,IEA,Energy,Bioenergy,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+95,Africa,Cote d'Ivoire,5.743710041046143,IEA,Energy,Gas pipelines and LNG facilities,Fugitive,2022,
+96,Africa,Cote d'Ivoire,3.0625500679016118,IEA,Energy,Gas pipelines and LNG facilities,Vented,2022,
+97,Africa,Cote d'Ivoire,5.116020202636719,IEA,Energy,Offshore gas,Fugitive,2022,
+98,Africa,Cote d'Ivoire,11.100700378417969,IEA,Energy,Offshore gas,Vented,2022,
+99,Africa,Cote d'Ivoire,1.5840799808502195,IEA,Energy,Offshore oil,Flared,2022,
+100,Africa,Cote d'Ivoire,0.8037959933280945,IEA,Energy,Offshore oil,Fugitive,2022,
+101,Africa,Cote d'Ivoire,10.889900207519531,IEA,Energy,Offshore oil,Vented,2022,
+102,Africa,Cote d'Ivoire,1.2916957139968872,IEA,Energy,Other from oil and gas,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+103,Africa,Cote d'Ivoire,93.39645385742188,IEA,Energy,Total,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+107,Africa,Democratic Republic of Congo,216.1719970703125,IEA,Energy,Bioenergy,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+108,Africa,Democratic Republic of Congo,11.980999946594238,IEA,Energy,Offshore oil,Flared,2022,
+109,Africa,Democratic Republic of Congo,1.164800047874451,IEA,Energy,Offshore oil,Fugitive,2022,
+110,Africa,Democratic Republic of Congo,15.780799865722656,IEA,Energy,Offshore oil,Vented,2022,
+111,Africa,Democratic Republic of Congo,6.215710163116455,IEA,Energy,Onshore oil,Flared,2022,
+112,Africa,Democratic Republic of Congo,0.6042919754981995,IEA,Energy,Onshore oil,Fugitive,2022,
+113,Africa,Democratic Republic of Congo,8.187009811401367,IEA,Energy,Onshore oil,Vented,2022,
+114,Africa,Democratic Republic of Congo,0.5872942209243774,IEA,Energy,Other from oil and gas,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+115,Africa,Democratic Republic of Congo,260.6929016113281,IEA,Energy,Total,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+119,Africa,Egypt,15.496000289916992,IEA,Energy,Bioenergy,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+120,Africa,Egypt,127.54199981689452,IEA,Energy,Gas pipelines and LNG facilities,Fugitive,2022,
+121,Africa,Egypt,68.00550079345703,IEA,Energy,Gas pipelines and LNG facilities,Vented,2022,
+122,Africa,Egypt,74.68219757080078,IEA,Energy,Offshore gas,Fugitive,2022,
+123,Africa,Egypt,162.0449981689453,IEA,Energy,Offshore gas,Vented,2022,
+124,Africa,Egypt,30.222299575805664,IEA,Energy,Offshore oil,Flared,2022,
+125,Africa,Egypt,4.782340049743652,IEA,Energy,Offshore oil,Fugitive,2022,
+126,Africa,Egypt,64.79170227050781,IEA,Energy,Offshore oil,Vented,2022,
+127,Africa,Egypt,18.87809944152832,IEA,Energy,Onshore gas,Fugitive,2022,
+128,Africa,Egypt,40.96160125732422,IEA,Energy,Onshore gas,Vented,2022,
+129,Africa,Egypt,93.07379913330078,IEA,Energy,Onshore oil,Flared,2022,
+130,Africa,Egypt,16.444799423217773,IEA,Energy,Onshore oil,Fugitive,2022,
+131,Africa,Egypt,222.79600524902344,IEA,Energy,Onshore oil,Vented,2022,
+132,Africa,Egypt,0.4959999918937683,IEA,Energy,Other from coal,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+133,Africa,Egypt,17.825054168701172,IEA,Energy,Other from oil and gas,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+134,Africa,Egypt,958.0424194335938,IEA,Energy,Total,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+138,Africa,Equatorial Guinea,0.1879999935626983,IEA,Energy,Bioenergy,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+139,Africa,Equatorial Guinea,7.800950050354004,IEA,Energy,Gas pipelines and LNG facilities,Fugitive,2022,
+140,Africa,Equatorial Guinea,4.159470081329346,IEA,Energy,Gas pipelines and LNG facilities,Vented,2022,
+141,Africa,Equatorial Guinea,17.984899520874023,IEA,Energy,Offshore gas,Fugitive,2022,
+142,Africa,Equatorial Guinea,39.02349853515625,IEA,Energy,Offshore gas,Vented,2022,
+143,Africa,Equatorial Guinea,6.018089771270752,IEA,Energy,Offshore oil,Flared,2022,
+144,Africa,Equatorial Guinea,3.707159996032715,IEA,Energy,Offshore oil,Fugitive,2022,
+145,Africa,Equatorial Guinea,50.22489929199219,IEA,Energy,Offshore oil,Vented,2022,
+146,Africa,Equatorial Guinea,2.1004600524902344,IEA,Energy,Onshore oil,Flared,2022,
+147,Africa,Equatorial Guinea,2.587779998779297,IEA,Energy,Onshore oil,Fugitive,2022,
+148,Africa,Equatorial Guinea,35.05950164794922,IEA,Energy,Onshore oil,Vented,2022,
+149,Africa,Equatorial Guinea,0.164000004529953,IEA,Energy,Other from oil and gas,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+150,Africa,Equatorial Guinea,169.01870727539062,IEA,Energy,Total,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+154,Africa,Eritrea,5.883999824523926,IEA,Energy,Bioenergy,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+155,Africa,Eritrea,0.0529584996402263,IEA,Energy,Other from oil and gas,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+156,Africa,Eritrea,5.936958312988281,IEA,Energy,Total,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+160,Africa,Ethiopia,462.364013671875,IEA,Energy,Bioenergy,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+161,Africa,Ethiopia,0.2000000029802322,IEA,Energy,Other from coal,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+162,Africa,Ethiopia,1.6487563848495483,IEA,Energy,Other from oil and gas,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+163,Africa,Ethiopia,464.2127685546875,IEA,Energy,Total,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+167,Africa,Gabon,17.06399917602539,IEA,Energy,Bioenergy,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+168,Africa,Gabon,1.393970012664795,IEA,Energy,Gas pipelines and LNG facilities,Fugitive,2022,
+169,Africa,Gabon,0.7432630062103271,IEA,Energy,Gas pipelines and LNG facilities,Vented,2022,
+170,Africa,Gabon,0.0772681981325149,IEA,Energy,Offshore gas,Fugitive,2022,
+171,Africa,Gabon,0.1676560044288635,IEA,Energy,Offshore gas,Vented,2022,
+172,Africa,Gabon,27.290000915527344,IEA,Energy,Offshore oil,Flared,2022,
+173,Africa,Gabon,5.724649906158447,IEA,Energy,Offshore oil,Fugitive,2022,
+174,Africa,Gabon,77.55809783935547,IEA,Energy,Offshore oil,Vented,2022,
+175,Africa,Gabon,0.8191620111465454,IEA,Energy,Onshore gas,Fugitive,2022,
+176,Africa,Gabon,1.7774100303649902,IEA,Energy,Onshore gas,Vented,2022,
+177,Africa,Gabon,28.56279945373535,IEA,Energy,Onshore oil,Flared,2022,
+178,Africa,Gabon,5.9916300773620605,IEA,Energy,Onshore oil,Fugitive,2022,
+179,Africa,Gabon,81.17520141601562,IEA,Energy,Onshore oil,Vented,2022,
+180,Africa,Gabon,0.2074630260467529,IEA,Energy,Other from oil and gas,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+181,Africa,Gabon,248.5525665283203,IEA,Energy,Total,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+188,Africa,Ghana,27.54800033569336,IEA,Energy,Bioenergy,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+189,Africa,Ghana,2.662489891052246,IEA,Energy,Gas pipelines and LNG facilities,Fugitive,2022,
+190,Africa,Ghana,1.4196399450302124,IEA,Energy,Gas pipelines and LNG facilities,Vented,2022,
+191,Africa,Ghana,2.9981799125671387,IEA,Energy,Offshore gas,Fugitive,2022,
+192,Africa,Ghana,6.505420207977295,IEA,Energy,Offshore gas,Vented,2022,
+193,Africa,Ghana,16.480100631713867,IEA,Energy,Offshore oil,Flared,2022,
+194,Africa,Ghana,3.5964999198913574,IEA,Energy,Offshore oil,Fugitive,2022,
+195,Africa,Ghana,48.72579956054688,IEA,Energy,Offshore oil,Vented,2022,
+196,Africa,Ghana,1.0940099954605105,IEA,Energy,Onshore oil,Flared,2022,
+197,Africa,Ghana,0.4774970114231109,IEA,Energy,Onshore oil,Fugitive,2022,
+198,Africa,Ghana,6.469170093536377,IEA,Energy,Onshore oil,Vented,2022,
+199,Africa,Ghana,2.7592806816101074,IEA,Energy,Other from oil and gas,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+200,Africa,Ghana,120.73609161376952,IEA,Energy,Total,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+204,Africa,Guinea,0.0080000003799796,IEA,Energy,Other from oil and gas,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+205,Africa,Guinea,0.0080000003799796,IEA,Energy,Total,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+212,Africa,Kenya,140.9600067138672,IEA,Energy,Bioenergy,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+213,Africa,Kenya,0.2160000056028366,IEA,Energy,Other from coal,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+214,Africa,Kenya,2.649975299835205,IEA,Energy,Other from oil and gas,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+215,Africa,Kenya,143.8259735107422,IEA,Energy,Total,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+222,Africa,Libya,2.9679999351501465,IEA,Energy,Bioenergy,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+223,Africa,Libya,27.869600296020508,IEA,Energy,Gas pipelines and LNG facilities,Fugitive,2022,
+224,Africa,Libya,14.860099792480469,IEA,Energy,Gas pipelines and LNG facilities,Vented,2022,
+225,Africa,Libya,13.74020004272461,IEA,Energy,Offshore gas,Fugitive,2022,
+226,Africa,Libya,29.813400268554688,IEA,Energy,Offshore gas,Vented,2022,
+227,Africa,Libya,20.24410057067871,IEA,Energy,Offshore oil,Flared,2022,
+228,Africa,Libya,3.3026700019836426,IEA,Energy,Offshore oil,Fugitive,2022,
+229,Africa,Libya,44.74489974975586,IEA,Energy,Offshore oil,Vented,2022,
+230,Africa,Libya,22.555299758911133,IEA,Energy,Onshore gas,Fugitive,2022,
+231,Africa,Libya,48.94029998779297,IEA,Energy,Onshore gas,Vented,2022,
+232,Africa,Libya,393.31201171875,IEA,Energy,Onshore oil,Flared,2022,
+233,Africa,Libya,66.32589721679688,IEA,Energy,Onshore oil,Fugitive,2022,
+234,Africa,Libya,898.5900268554688,IEA,Energy,Onshore oil,Vented,2022,
+235,Africa,Libya,7.17477560043335,IEA,Energy,Other from oil and gas,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+236,Africa,Libya,5.0,IEA,Energy,Satellite-detected large oil and gas emissions,All,2022,
+237,Africa,Libya,1599.4412841796875,IEA,Energy,Total,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+241,Africa,Morocco,14.227999687194824,IEA,Energy,Bioenergy,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+242,Africa,Morocco,2.3359200954437256,IEA,Energy,Gas pipelines and LNG facilities,Fugitive,2022,
+243,Africa,Morocco,1.2455099821090698,IEA,Energy,Gas pipelines and LNG facilities,Vented,2022,
+244,Africa,Morocco,0.1235819980502128,IEA,Energy,Onshore gas,Fugitive,2022,
+245,Africa,Morocco,0.2681480050086975,IEA,Energy,Onshore gas,Vented,2022,
+246,Africa,Morocco,0.0012635400053113,IEA,Energy,Onshore oil,Fugitive,2022,
+247,Africa,Morocco,0.0171185992658138,IEA,Energy,Onshore oil,Vented,2022,
+248,Africa,Morocco,0.3000000119209289,IEA,Energy,Other from coal,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+249,Africa,Morocco,3.661930322647095,IEA,Energy,Other from oil and gas,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+250,Africa,Morocco,22.181472778320312,IEA,Energy,Total,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+254,Africa,Mozambique,63.56399917602539,IEA,Energy,Bioenergy,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+255,Africa,Mozambique,60.53779983520508,IEA,Energy,Coking coal,All,2022,
+256,Africa,Mozambique,2.407809972763061,IEA,Energy,Gas pipelines and LNG facilities,Fugitive,2022,
+257,Africa,Mozambique,1.2838399410247805,IEA,Energy,Gas pipelines and LNG facilities,Vented,2022,
+258,Africa,Mozambique,1.595620036125183,IEA,Energy,Offshore gas,Fugitive,2022,
+259,Africa,Mozambique,3.462160110473633,IEA,Energy,Offshore gas,Vented,2022,
+260,Africa,Mozambique,10.58530044555664,IEA,Energy,Onshore gas,Fugitive,2022,
+261,Africa,Mozambique,22.96780014038086,IEA,Energy,Onshore gas,Vented,2022,
+262,Africa,Mozambique,0.0172953996807336,IEA,Energy,Onshore oil,Fugitive,2022,
+263,Africa,Mozambique,0.2343199998140335,IEA,Energy,Onshore oil,Vented,2022,
+264,Africa,Mozambique,0.0040000001899898,IEA,Energy,Other from coal,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+265,Africa,Mozambique,0.7262560725212097,IEA,Energy,Other from oil and gas,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+266,Africa,Mozambique,59.96969985961914,IEA,Energy,Steam coal,All,2022,
+267,Africa,Mozambique,227.35589599609372,IEA,Energy,Total,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+271,Africa,Namibia,1.96399998664856,IEA,Energy,Bioenergy,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+272,Africa,Namibia,0.6670891642570496,IEA,Energy,Other from oil and gas,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+273,Africa,Namibia,2.631089210510254,IEA,Energy,Total,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+277,Africa,Niger,34.108001708984375,IEA,Energy,Bioenergy,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+278,Africa,Niger,0.0476502999663353,IEA,Energy,Onshore gas,Fugitive,2022,
+279,Africa,Niger,0.1033909991383552,IEA,Energy,Onshore gas,Vented,2022,
+280,Africa,Niger,1.3636599779129028,IEA,Energy,Onshore oil,Flared,2022,
+281,Africa,Niger,0.3365640044212341,IEA,Energy,Onshore oil,Fugitive,2022,
+282,Africa,Niger,4.559800148010254,IEA,Energy,Onshore oil,Vented,2022,
+283,Africa,Niger,0.0040000001899898,IEA,Energy,Other from coal,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+284,Africa,Niger,0.344618022441864,IEA,Energy,Other from oil and gas,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+285,Africa,Niger,40.86768341064453,IEA,Energy,Total,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+289,Africa,Nigeria,1331.7440185546875,IEA,Energy,Bioenergy,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+290,Africa,Nigeria,77.07129669189453,IEA,Energy,Gas pipelines and LNG facilities,Fugitive,2022,
+291,Africa,Nigeria,41.09450149536133,IEA,Energy,Gas pipelines and LNG facilities,Vented,2022,
+292,Africa,Nigeria,29.768400192260746,IEA,Energy,Offshore gas,Fugitive,2022,
+293,Africa,Nigeria,64.59130096435547,IEA,Energy,Offshore gas,Vented,2022,
+294,Africa,Nigeria,203.0249938964844,IEA,Energy,Offshore oil,Flared,2022,
+295,Africa,Nigeria,50.9286003112793,IEA,Energy,Offshore oil,Fugitive,2022,
+296,Africa,Nigeria,689.9849853515625,IEA,Energy,Offshore oil,Vented,2022,
+297,Africa,Nigeria,63.722599029541016,IEA,Energy,Onshore gas,Fugitive,2022,
+298,Africa,Nigeria,138.26499938964844,IEA,Energy,Onshore gas,Vented,2022,
+299,Africa,Nigeria,103.51300048828124,IEA,Energy,Onshore oil,Flared,2022,
+300,Africa,Nigeria,33.831600189208984,IEA,Energy,Onshore oil,Fugitive,2022,
+301,Africa,Nigeria,458.3529968261719,IEA,Energy,Onshore oil,Vented,2022,
+302,Africa,Nigeria,0.0120000001043081,IEA,Energy,Other from coal,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+303,Africa,Nigeria,20.165971755981445,IEA,Energy,Other from oil and gas,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+304,Africa,Nigeria,3306.0712890625,IEA,Energy,Total,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+308,Africa,Senegal,12.055999755859377,IEA,Energy,Bioenergy,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+309,Africa,Senegal,0.0599596984684467,IEA,Energy,Gas pipelines and LNG facilities,Fugitive,2022,
+310,Africa,Senegal,0.0319706015288829,IEA,Energy,Gas pipelines and LNG facilities,Vented,2022,
+311,Africa,Senegal,0.0263592004776,IEA,Energy,Onshore gas,Fugitive,2022,
+312,Africa,Senegal,0.0571939013898372,IEA,Energy,Onshore gas,Vented,2022,
+313,Africa,Senegal,0.1319999992847442,IEA,Energy,Other from coal,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+314,Africa,Senegal,0.6613935232162476,IEA,Energy,Other from oil and gas,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+315,Africa,Senegal,13.024876594543455,IEA,Energy,Total,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+325,Africa,Somalia,29.507999420166016,IEA,Energy,Bioenergy,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+326,Africa,Somalia,29.507999420166016,IEA,Energy,Total,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+330,Africa,South Africa,40.56800079345703,IEA,Energy,Bioenergy,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+331,Africa,South Africa,27.75239944458008,IEA,Energy,Coking coal,All,2022,
+332,Africa,South Africa,8.12007999420166,IEA,Energy,Gas pipelines and LNG facilities,Fugitive,2022,
+333,Africa,South Africa,4.329629898071289,IEA,Energy,Gas pipelines and LNG facilities,Vented,2022,
+334,Africa,South Africa,0.9555789828300476,IEA,Energy,Offshore gas,Fugitive,2022,
+335,Africa,South Africa,2.0734100341796875,IEA,Energy,Offshore gas,Vented,2022,
+336,Africa,South Africa,0.0470969006419181,IEA,Energy,Offshore oil,Flared,2022,
+337,Africa,South Africa,0.0287331994622945,IEA,Energy,Offshore oil,Fugitive,2022,
+338,Africa,South Africa,0.3892799913883209,IEA,Energy,Offshore oil,Vented,2022,
+339,Africa,South Africa,0.0410393998026847,IEA,Energy,Onshore gas,Fugitive,2022,
+340,Africa,South Africa,0.0890469029545784,IEA,Energy,Onshore gas,Vented,2022,
+341,Africa,South Africa,0.0378464981913566,IEA,Energy,Onshore oil,Flared,2022,
+342,Africa,South Africa,2.7900099754333496,IEA,Energy,Onshore oil,Fugitive,2022,
+343,Africa,South Africa,37.79940032958984,IEA,Energy,Onshore oil,Vented,2022,
+344,Africa,South Africa,42.82400131225586,IEA,Energy,Other from coal,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+345,Africa,South Africa,10.874122619628906,IEA,Energy,Other from oil and gas,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+346,Africa,South Africa,1060.31005859375,IEA,Energy,Steam coal,All,2022,
+347,Africa,South Africa,1239.0296630859375,IEA,Energy,Total,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+351,Africa,South Sudan,2.3320000171661377,IEA,Energy,Bioenergy,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+352,Africa,South Sudan,5.1195597648620605,IEA,Energy,Onshore oil,Fugitive,2022,
+353,Africa,South Sudan,69.36029815673828,IEA,Energy,Onshore oil,Vented,2022,
+354,Africa,South Sudan,0.177035391330719,IEA,Energy,Other from oil and gas,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+355,Africa,South Sudan,76.9888916015625,IEA,Energy,Total,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+359,Africa,Sudan,77.20800018310547,IEA,Energy,Bioenergy,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+360,Africa,Sudan,17.532499313354492,IEA,Energy,Onshore oil,Flared,2022,
+361,Africa,Sudan,3.1361899375915527,IEA,Energy,Onshore oil,Fugitive,2022,
+362,Africa,Sudan,42.48939895629883,IEA,Energy,Onshore oil,Vented,2022,
+363,Africa,Sudan,2.6997392177581787,IEA,Energy,Other from oil and gas,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+364,Africa,Sudan,143.06582641601562,IEA,Energy,Total,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+368,Africa,Tanzania,192.06399536132807,IEA,Energy,Bioenergy,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+369,Africa,Tanzania,2.064310073852539,IEA,Energy,Gas pipelines and LNG facilities,Fugitive,2022,
+370,Africa,Tanzania,1.1006900072097778,IEA,Energy,Gas pipelines and LNG facilities,Vented,2022,
+371,Africa,Tanzania,0.7120620012283325,IEA,Energy,Offshore gas,Fugitive,2022,
+372,Africa,Tanzania,1.5450299978256226,IEA,Energy,Offshore gas,Vented,2022,
+373,Africa,Tanzania,1.2581199407577517,IEA,Energy,Onshore gas,Fugitive,2022,
+374,Africa,Tanzania,2.729870080947876,IEA,Energy,Onshore gas,Vented,2022,
+375,Africa,Tanzania,0.1800000071525573,IEA,Energy,Other from coal,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+376,Africa,Tanzania,1.7361462116241455,IEA,Energy,Other from oil and gas,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+377,Africa,Tanzania,203.3902282714844,IEA,Energy,Total,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+381,Africa,Togo,18.756000518798828,IEA,Energy,Bioenergy,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+382,Africa,Togo,0.1020750030875206,IEA,Energy,Gas pipelines and LNG facilities,Fugitive,2022,
+383,Africa,Togo,0.0544265992939472,IEA,Energy,Gas pipelines and LNG facilities,Vented,2022,
+384,Africa,Togo,0.3130891323089599,IEA,Energy,Other from oil and gas,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+385,Africa,Togo,19.2255916595459,IEA,Energy,Total,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+389,Africa,Tunisia,10.128000259399414,IEA,Energy,Bioenergy,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+390,Africa,Tunisia,12.041299819946287,IEA,Energy,Gas pipelines and LNG facilities,Fugitive,2022,
+391,Africa,Tunisia,6.420420169830322,IEA,Energy,Gas pipelines and LNG facilities,Vented,2022,
+392,Africa,Tunisia,1.0379799604415894,IEA,Energy,Offshore gas,Fugitive,2022,
+393,Africa,Tunisia,2.2522099018096924,IEA,Energy,Offshore gas,Vented,2022,
+394,Africa,Tunisia,5.638070106506348,IEA,Energy,Offshore oil,Flared,2022,
+395,Africa,Tunisia,0.5806980133056641,IEA,Energy,Offshore oil,Fugitive,2022,
+396,Africa,Tunisia,7.867350101470947,IEA,Energy,Offshore oil,Vented,2022,
+397,Africa,Tunisia,1.811100006103516,IEA,Energy,Onshore gas,Fugitive,2022,
+398,Africa,Tunisia,3.929709911346436,IEA,Energy,Onshore gas,Vented,2022,
+399,Africa,Tunisia,9.012370109558104,IEA,Energy,Onshore oil,Flared,2022,
+400,Africa,Tunisia,0.9943600296974182,IEA,Energy,Onshore oil,Fugitive,2022,
+401,Africa,Tunisia,13.471699714660645,IEA,Energy,Onshore oil,Vented,2022,
+402,Africa,Tunisia,2.048957347869873,IEA,Energy,Other from oil and gas,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+403,Africa,Tunisia,77.23422241210938,IEA,Energy,Total,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+407,Asia Pacific,Australia,17.76799964904785,IEA,Energy,Bioenergy,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+408,Asia Pacific,Australia,888.1339721679688,IEA,Energy,Coking coal,All,2022,
+409,Asia Pacific,Australia,40.49660110473633,IEA,Energy,Gas pipelines and LNG facilities,Fugitive,2022,
+410,Asia Pacific,Australia,21.59280014038086,IEA,Energy,Gas pipelines and LNG facilities,Vented,2022,
+411,Asia Pacific,Australia,70.10890197753906,IEA,Energy,Offshore gas,Fugitive,2022,
+412,Asia Pacific,Australia,152.1219940185547,IEA,Energy,Offshore gas,Vented,2022,
+413,Asia Pacific,Australia,9.667490005493164,IEA,Energy,Offshore oil,Flared,2022,
+414,Asia Pacific,Australia,1.188140034675598,IEA,Energy,Offshore oil,Fugitive,2022,
+415,Asia Pacific,Australia,16.09709930419922,IEA,Energy,Offshore oil,Vented,2022,
+416,Asia Pacific,Australia,45.1234016418457,IEA,Energy,Onshore gas,Fugitive,2022,
+417,Asia Pacific,Australia,97.9083023071289,IEA,Energy,Onshore gas,Vented,2022,
+418,Asia Pacific,Australia,13.968099594116213,IEA,Energy,Onshore oil,Flared,2022,
+419,Asia Pacific,Australia,3.109220027923584,IEA,Energy,Onshore oil,Fugitive,2022,
+420,Asia Pacific,Australia,42.12409973144531,IEA,Energy,Onshore oil,Vented,2022,
+421,Asia Pacific,Australia,7.86244010925293,IEA,Energy,Other from coal,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+422,Asia Pacific,Australia,24.18429183959961,IEA,Energy,Other from oil and gas,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+423,Asia Pacific,Australia,3.299999952316284,IEA,Energy,Satellite-detected large oil and gas emissions,All,2022,
+424,Asia Pacific,Australia,777.4840087890625,IEA,Energy,Steam coal,All,2022,
+425,Asia Pacific,Australia,2232.23876953125,IEA,Energy,Total,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+429,Asia Pacific,Bangladesh,98.3239974975586,IEA,Energy,Bioenergy,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+430,Asia Pacific,Bangladesh,64.60040283203125,IEA,Energy,Gas pipelines and LNG facilities,Fugitive,2022,
+431,Asia Pacific,Bangladesh,34.44499969482422,IEA,Energy,Gas pipelines and LNG facilities,Vented,2022,
+432,Asia Pacific,Bangladesh,39.714500427246094,IEA,Energy,Onshore gas,Fugitive,2022,
+433,Asia Pacific,Bangladesh,86.17220306396484,IEA,Energy,Onshore gas,Vented,2022,
+434,Asia Pacific,Bangladesh,0.5414190292358398,IEA,Energy,Onshore oil,Flared,2022,
+435,Asia Pacific,Bangladesh,0.1875250041484832,IEA,Energy,Onshore oil,Fugitive,2022,
+436,Asia Pacific,Bangladesh,2.540600061416626,IEA,Energy,Onshore oil,Vented,2022,
+437,Asia Pacific,Bangladesh,0.7120000123977661,IEA,Energy,Other from coal,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+438,Asia Pacific,Bangladesh,7.098189353942871,IEA,Energy,Other from oil and gas,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+439,Asia Pacific,Bangladesh,334.3358459472656,IEA,Energy,Total,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+443,Asia Pacific,Brunei,3.983299970626831,IEA,Energy,Gas pipelines and LNG facilities,Fugitive,2022,
+444,Asia Pacific,Brunei,2.1238999366760254,IEA,Energy,Gas pipelines and LNG facilities,Vented,2022,
+445,Asia Pacific,Brunei,5.478209972381592,IEA,Energy,Offshore gas,Fugitive,2022,
+446,Asia Pacific,Brunei,11.88659954071045,IEA,Energy,Offshore gas,Vented,2022,
+447,Asia Pacific,Brunei,2.370460033416748,IEA,Energy,Offshore oil,Flared,2022,
+448,Asia Pacific,Brunei,0.7934520244598389,IEA,Energy,Offshore oil,Fugitive,2022,
+449,Asia Pacific,Brunei,10.749799728393556,IEA,Energy,Offshore oil,Vented,2022,
+450,Asia Pacific,Brunei,0.3530679941177368,IEA,Energy,Onshore gas,Fugitive,2022,
+451,Asia Pacific,Brunei,0.7660840153694153,IEA,Energy,Onshore gas,Vented,2022,
+452,Asia Pacific,Brunei,0.4989509880542755,IEA,Energy,Onshore oil,Flared,2022,
+453,Asia Pacific,Brunei,0.272163987159729,IEA,Energy,Onshore oil,Fugitive,2022,
+454,Asia Pacific,Brunei,3.687309980392456,IEA,Energy,Onshore oil,Vented,2022,
+455,Asia Pacific,Brunei,0.0240000002086162,IEA,Energy,Other from coal,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+456,Asia Pacific,Brunei,0.5199947953224182,IEA,Energy,Other from oil and gas,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+457,Asia Pacific,Brunei,43.50729370117188,IEA,Energy,Total,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+461,Asia Pacific,China,984.2000122070312,IEA,Energy,Bioenergy,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+462,Asia Pacific,China,5418.77001953125,IEA,Energy,Coking coal,All,2022,
+463,Asia Pacific,China,552.1199951171875,IEA,Energy,Gas pipelines and LNG facilities,Fugitive,2022,
+464,Asia Pacific,China,294.3909912109375,IEA,Energy,Gas pipelines and LNG facilities,Vented,2022,
+465,Asia Pacific,China,16.911100387573242,IEA,Energy,Offshore gas,Fugitive,2022,
+466,Asia Pacific,China,36.69369888305664,IEA,Energy,Offshore gas,Vented,2022,
+467,Asia Pacific,China,15.84280014038086,IEA,Energy,Offshore oil,Flared,2022,
+468,Asia Pacific,China,18.19700050354004,IEA,Energy,Offshore oil,Fugitive,2022,
+469,Asia Pacific,China,246.53500366210935,IEA,Energy,Offshore oil,Vented,2022,
+470,Asia Pacific,China,254.2760009765625,IEA,Energy,Onshore gas,Fugitive,2022,
+471,Asia Pacific,China,551.7260131835938,IEA,Energy,Onshore gas,Vented,2022,
+472,Asia Pacific,China,52.604000091552734,IEA,Energy,Onshore oil,Flared,2022,
+473,Asia Pacific,China,64.79519653320312,IEA,Energy,Onshore oil,Fugitive,2022,
+474,Asia Pacific,China,877.8510131835938,IEA,Energy,Onshore oil,Vented,2022,
+475,Asia Pacific,China,801.6087646484375,IEA,Energy,Other from coal,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+476,Asia Pacific,China,376.70068359375,IEA,Energy,Other from oil and gas,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+477,Asia Pacific,China,14809.0,IEA,Energy,Steam coal,All,2022,
+478,Asia Pacific,China,25372.22265625,IEA,Energy,Total,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+482,Asia Pacific,India,1378.843994140625,IEA,Energy,Bioenergy,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+483,Asia Pacific,India,89.01860046386719,IEA,Energy,Coking coal,All,2022,
+484,Asia Pacific,India,191.9250030517578,IEA,Energy,Gas pipelines and LNG facilities,Fugitive,2022,
+485,Asia Pacific,India,102.33399963378906,IEA,Energy,Gas pipelines and LNG facilities,Vented,2022,
+486,Asia Pacific,India,43.62739944458008,IEA,Energy,Offshore gas,Fugitive,2022,
+487,Asia Pacific,India,94.66230010986328,IEA,Energy,Offshore gas,Vented,2022,
+488,Asia Pacific,India,36.68199920654297,IEA,Energy,Offshore oil,Flared,2022,
+489,Asia Pacific,India,12.715800285339355,IEA,Energy,Offshore oil,Fugitive,2022,
+490,Asia Pacific,India,172.27499389648438,IEA,Energy,Offshore oil,Vented,2022,
+491,Asia Pacific,India,15.409700393676758,IEA,Energy,Onshore gas,Fugitive,2022,
+492,Asia Pacific,India,33.43579864501953,IEA,Energy,Onshore gas,Vented,2022,
+493,Asia Pacific,India,35.81230163574219,IEA,Energy,Onshore oil,Flared,2022,
+494,Asia Pacific,India,14.347399711608888,IEA,Energy,Onshore oil,Fugitive,2022,
+495,Asia Pacific,India,194.3800048828125,IEA,Energy,Onshore oil,Vented,2022,
+496,Asia Pacific,India,103.2058563232422,IEA,Energy,Other from coal,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+497,Asia Pacific,India,88.38098907470703,IEA,Energy,Other from oil and gas,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+498,Asia Pacific,India,11.300000190734863,IEA,Energy,Satellite-detected large oil and gas emissions,All,2022,
+499,Asia Pacific,India,2566.8798828125,IEA,Energy,Steam coal,All,2022,
+500,Asia Pacific,India,5185.236328125,IEA,Energy,Total,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+504,Asia Pacific,Indonesia,185.17599487304688,IEA,Energy,Bioenergy,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+505,Asia Pacific,Indonesia,112.91500091552734,IEA,Energy,Coking coal,All,2022,
+506,Asia Pacific,Indonesia,113.21800231933594,IEA,Energy,Gas pipelines and LNG facilities,Fugitive,2022,
+507,Asia Pacific,Indonesia,60.36790084838867,IEA,Energy,Gas pipelines and LNG facilities,Vented,2022,
+508,Asia Pacific,Indonesia,62.73059844970703,IEA,Energy,Offshore gas,Fugitive,2022,
+509,Asia Pacific,Indonesia,136.11199951171875,IEA,Energy,Offshore gas,Vented,2022,
+510,Asia Pacific,Indonesia,8.883480072021484,IEA,Energy,Offshore oil,Flared,2022,
+511,Asia Pacific,Indonesia,3.320489883422852,IEA,Energy,Offshore oil,Fugitive,2022,
+512,Asia Pacific,Indonesia,44.98630142211914,IEA,Energy,Offshore oil,Vented,2022,
+513,Asia Pacific,Indonesia,45.64720153808594,IEA,Energy,Onshore gas,Fugitive,2022,
+514,Asia Pacific,Indonesia,99.0448989868164,IEA,Energy,Onshore gas,Vented,2022,
+515,Asia Pacific,Indonesia,49.85810089111328,IEA,Energy,Onshore oil,Flared,2022,
+516,Asia Pacific,Indonesia,20.07150077819824,IEA,Energy,Onshore oil,Fugitive,2022,
+517,Asia Pacific,Indonesia,271.9309997558594,IEA,Energy,Onshore oil,Vented,2022,
+518,Asia Pacific,Indonesia,10.447999954223633,IEA,Energy,Other from coal,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+519,Asia Pacific,Indonesia,42.63877868652344,IEA,Energy,Other from oil and gas,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+520,Asia Pacific,Indonesia,3813.02001953125,IEA,Energy,Steam coal,All,2022,
+521,Asia Pacific,Indonesia,5080.369140625,IEA,Energy,Total,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+525,Asia Pacific,Japan,29.6200008392334,IEA,Energy,Bioenergy,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+526,Asia Pacific,Japan,101.48999786376952,IEA,Energy,Gas pipelines and LNG facilities,Fugitive,2022,
+527,Asia Pacific,Japan,54.11439895629883,IEA,Energy,Gas pipelines and LNG facilities,Vented,2022,
+528,Asia Pacific,Japan,0.1309320032596588,IEA,Energy,Offshore gas,Fugitive,2022,
+529,Asia Pacific,Japan,0.2840940058231354,IEA,Energy,Offshore gas,Vented,2022,
+530,Asia Pacific,Japan,0.0101672997698187,IEA,Energy,Offshore oil,Fugitive,2022,
+531,Asia Pacific,Japan,0.1377480030059814,IEA,Energy,Offshore oil,Vented,2022,
+532,Asia Pacific,Japan,3.255800008773804,IEA,Energy,Onshore gas,Fugitive,2022,
+533,Asia Pacific,Japan,7.064410209655762,IEA,Energy,Onshore gas,Vented,2022,
+534,Asia Pacific,Japan,0.1200279965996742,IEA,Energy,Onshore oil,Fugitive,2022,
+535,Asia Pacific,Japan,1.6261500120162964,IEA,Energy,Onshore oil,Vented,2022,
+536,Asia Pacific,Japan,7.624000072479248,IEA,Energy,Other from coal,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+537,Asia Pacific,Japan,74.20514678955078,IEA,Energy,Other from oil and gas,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+538,Asia Pacific,Japan,3.617460012435913,IEA,Energy,Steam coal,All,2022,
+539,Asia Pacific,Japan,283.3003234863281,IEA,Energy,Total,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+543,Asia Pacific,Korea,7.668000221252441,IEA,Energy,Bioenergy,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+544,Asia Pacific,Korea,72.10240173339844,IEA,Energy,Gas pipelines and LNG facilities,Fugitive,2022,
+545,Asia Pacific,Korea,38.44499969482422,IEA,Energy,Gas pipelines and LNG facilities,Vented,2022,
+546,Asia Pacific,Korea,0.0417191982269287,IEA,Energy,Onshore gas,Fugitive,2022,
+547,Asia Pacific,Korea,0.090521901845932,IEA,Energy,Onshore gas,Vented,2022,
+548,Asia Pacific,Korea,7.639999866485596,IEA,Energy,Other from coal,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+549,Asia Pacific,Korea,41.846900939941406,IEA,Energy,Other from oil and gas,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+550,Asia Pacific,Korea,32.49209976196289,IEA,Energy,Steam coal,All,2022,
+551,Asia Pacific,Korea,200.3266448974609,IEA,Energy,Total,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+555,Asia Pacific,Malaysia,1.003999948501587,IEA,Energy,Bioenergy,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+556,Asia Pacific,Malaysia,47.9926986694336,IEA,Energy,Gas pipelines and LNG facilities,Fugitive,2022,
+557,Asia Pacific,Malaysia,25.58970069885254,IEA,Energy,Gas pipelines and LNG facilities,Vented,2022,
+558,Asia Pacific,Malaysia,59.07709884643555,IEA,Energy,Offshore gas,Fugitive,2022,
+559,Asia Pacific,Malaysia,128.18499755859375,IEA,Energy,Offshore gas,Vented,2022,
+560,Asia Pacific,Malaysia,44.000099182128906,IEA,Energy,Offshore oil,Flared,2022,
+561,Asia Pacific,Malaysia,7.019599914550781,IEA,Energy,Offshore oil,Fugitive,2022,
+562,Asia Pacific,Malaysia,95.10230255126952,IEA,Energy,Offshore oil,Vented,2022,
+563,Asia Pacific,Malaysia,7.753620147705078,IEA,Energy,Onshore oil,Flared,2022,
+564,Asia Pacific,Malaysia,2.497709989547729,IEA,Energy,Onshore oil,Fugitive,2022,
+565,Asia Pacific,Malaysia,33.83919906616211,IEA,Energy,Onshore oil,Vented,2022,
+566,Asia Pacific,Malaysia,1.5839999914169312,IEA,Energy,Other from coal,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+567,Asia Pacific,Malaysia,20.37604331970215,IEA,Energy,Other from oil and gas,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+568,Asia Pacific,Malaysia,474.0210876464844,IEA,Energy,Total,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+572,Asia Pacific,Mongolia,1.116000056266785,IEA,Energy,Bioenergy,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+573,Asia Pacific,Mongolia,157.656005859375,IEA,Energy,Coking coal,All,2022,
+574,Asia Pacific,Mongolia,10.60299015045166,IEA,Energy,Other from coal,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+575,Asia Pacific,Mongolia,0.9319999814033508,IEA,Energy,Other from oil and gas,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+576,Asia Pacific,Mongolia,46.54520034790039,IEA,Energy,Steam coal,All,2022,
+577,Asia Pacific,Mongolia,216.8521881103516,IEA,Energy,Total,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+581,Asia Pacific,New Zealand,3.503999948501587,IEA,Energy,Bioenergy,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+582,Asia Pacific,New Zealand,4.801380157470703,IEA,Energy,Coking coal,All,2022,
+583,Asia Pacific,New Zealand,5.275710105895996,IEA,Energy,Gas pipelines and LNG facilities,Fugitive,2022,
+584,Asia Pacific,New Zealand,2.8130099773406982,IEA,Energy,Gas pipelines and LNG facilities,Vented,2022,
+585,Asia Pacific,New Zealand,2.365989923477173,IEA,Energy,Offshore gas,Fugitive,2022,
+586,Asia Pacific,New Zealand,5.133709907531738,IEA,Energy,Offshore gas,Vented,2022,
+587,Asia Pacific,New Zealand,0.0628838986158371,IEA,Energy,Offshore oil,Flared,2022,
+588,Asia Pacific,New Zealand,0.0644327998161315,IEA,Energy,Offshore oil,Fugitive,2022,
+589,Asia Pacific,New Zealand,0.8729419708251953,IEA,Energy,Offshore oil,Vented,2022,
+590,Asia Pacific,New Zealand,1.1586699485778809,IEA,Energy,Onshore gas,Fugitive,2022,
+591,Asia Pacific,New Zealand,2.514080047607422,IEA,Energy,Onshore gas,Vented,2022,
+592,Asia Pacific,New Zealand,0.0937661975622177,IEA,Energy,Onshore oil,Flared,2022,
+593,Asia Pacific,New Zealand,0.1702439934015274,IEA,Energy,Onshore oil,Fugitive,2022,
+594,Asia Pacific,New Zealand,2.306489944458008,IEA,Energy,Onshore oil,Vented,2022,
+595,Asia Pacific,New Zealand,1.2671161890029907,IEA,Energy,Other from coal,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+596,Asia Pacific,New Zealand,4.211545944213867,IEA,Energy,Other from oil and gas,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+597,Asia Pacific,New Zealand,0.7181699872016907,IEA,Energy,Steam coal,All,2022,
+598,Asia Pacific,New Zealand,37.33414077758789,IEA,Energy,Total,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+619,Asia Pacific,Pakistan,413.55999755859375,IEA,Energy,Bioenergy,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+620,Asia Pacific,Pakistan,124.13099670410156,IEA,Energy,Gas pipelines and LNG facilities,Fugitive,2022,
+621,Asia Pacific,Pakistan,66.18669891357422,IEA,Energy,Gas pipelines and LNG facilities,Vented,2022,
+622,Asia Pacific,Pakistan,68.3219985961914,IEA,Energy,Onshore gas,Fugitive,2022,
+623,Asia Pacific,Pakistan,148.2449951171875,IEA,Energy,Onshore gas,Vented,2022,
+624,Asia Pacific,Pakistan,12.835200309753418,IEA,Energy,Onshore oil,Flared,2022,
+625,Asia Pacific,Pakistan,4.1926798820495605,IEA,Energy,Onshore oil,Fugitive,2022,
+626,Asia Pacific,Pakistan,56.80289840698242,IEA,Energy,Onshore oil,Vented,2022,
+627,Asia Pacific,Pakistan,3.184000015258789,IEA,Energy,Other from coal,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+628,Asia Pacific,Pakistan,19.539899826049805,IEA,Energy,Other from oil and gas,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+629,Asia Pacific,Pakistan,3.400000095367432,IEA,Energy,Satellite-detected large oil and gas emissions,All,2022,
+630,Asia Pacific,Pakistan,920.3993530273438,IEA,Energy,Total,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+634,Asia Pacific,Philippines,73.87999725341797,IEA,Energy,Bioenergy,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+635,Asia Pacific,Philippines,6.856989860534668,IEA,Energy,Gas pipelines and LNG facilities,Fugitive,2022,
+636,Asia Pacific,Philippines,3.656150102615357,IEA,Energy,Gas pipelines and LNG facilities,Vented,2022,
+637,Asia Pacific,Philippines,4.891369819641113,IEA,Energy,Offshore gas,Fugitive,2022,
+638,Asia Pacific,Philippines,10.613300323486328,IEA,Energy,Offshore gas,Vented,2022,
+639,Asia Pacific,Philippines,0.0870975032448768,IEA,Energy,Offshore oil,Flared,2022,
+640,Asia Pacific,Philippines,0.0395996011793613,IEA,Energy,Offshore oil,Fugitive,2022,
+641,Asia Pacific,Philippines,0.5364999771118164,IEA,Energy,Offshore oil,Vented,2022,
+642,Asia Pacific,Philippines,0.4391190111637115,IEA,Energy,Onshore oil,Flared,2022,
+643,Asia Pacific,Philippines,0.394347995519638,IEA,Energy,Onshore oil,Fugitive,2022,
+644,Asia Pacific,Philippines,5.34266996383667,IEA,Energy,Onshore oil,Vented,2022,
+645,Asia Pacific,Philippines,1.284000039100647,IEA,Energy,Other from coal,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+646,Asia Pacific,Philippines,8.413165092468262,IEA,Energy,Other from oil and gas,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+647,Asia Pacific,Philippines,116.43431091308594,IEA,Energy,Total,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+651,Asia Pacific,Thailand,52.02000045776367,IEA,Energy,Bioenergy,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+652,Asia Pacific,Thailand,119.29900360107422,IEA,Energy,Gas pipelines and LNG facilities,Fugitive,2022,
+653,Asia Pacific,Thailand,63.610198974609375,IEA,Energy,Gas pipelines and LNG facilities,Vented,2022,
+654,Asia Pacific,Thailand,39.90739822387695,IEA,Energy,Offshore gas,Fugitive,2022,
+655,Asia Pacific,Thailand,86.5907974243164,IEA,Energy,Offshore gas,Vented,2022,
+656,Asia Pacific,Thailand,3.351210117340088,IEA,Energy,Offshore oil,Flared,2022,
+657,Asia Pacific,Thailand,1.7320899963378906,IEA,Energy,Offshore oil,Fugitive,2022,
+658,Asia Pacific,Thailand,23.46649932861328,IEA,Energy,Offshore oil,Vented,2022,
+659,Asia Pacific,Thailand,2.1137399673461914,IEA,Energy,Onshore gas,Fugitive,2022,
+660,Asia Pacific,Thailand,4.58636999130249,IEA,Energy,Onshore gas,Vented,2022,
+661,Asia Pacific,Thailand,7.769750118255615,IEA,Energy,Onshore oil,Flared,2022,
+662,Asia Pacific,Thailand,6.972569942474365,IEA,Energy,Onshore oil,Fugitive,2022,
+663,Asia Pacific,Thailand,94.46499633789062,IEA,Energy,Onshore oil,Vented,2022,
+664,Asia Pacific,Thailand,3.9079999923706055,IEA,Energy,Other from coal,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+665,Asia Pacific,Thailand,25.4560489654541,IEA,Energy,Other from oil and gas,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+666,Asia Pacific,Thailand,535.2486572265625,IEA,Energy,Total,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+670,Asia Pacific,Vietnam,35.84000015258789,IEA,Energy,Bioenergy,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+671,Asia Pacific,Vietnam,15.095999717712402,IEA,Energy,Other from coal,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+672,Asia Pacific,Vietnam,9.996000289916992,IEA,Energy,Other from oil and gas,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+673,Asia Pacific,Vietnam,60.93199920654297,IEA,Energy,Total,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+677,Central and South America,Argentina,7.067999839782715,IEA,Energy,Bioenergy,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+678,Central and South America,Argentina,116.40299987792967,IEA,Energy,Gas pipelines and LNG facilities,Fugitive,2022,
+679,Central and South America,Argentina,62.06639862060547,IEA,Energy,Gas pipelines and LNG facilities,Vented,2022,
+680,Central and South America,Argentina,11.395000457763672,IEA,Energy,Offshore gas,Fugitive,2022,
+681,Central and South America,Argentina,24.724899291992188,IEA,Energy,Offshore gas,Vented,2022,
+682,Central and South America,Argentina,0.2892979979515075,IEA,Energy,Offshore oil,Flared,2022,
+683,Central and South America,Argentina,0.1127979978919029,IEA,Energy,Offshore oil,Fugitive,2022,
+684,Central and South America,Argentina,1.5282000303268433,IEA,Energy,Offshore oil,Vented,2022,
+685,Central and South America,Argentina,129.52000427246094,IEA,Energy,Onshore gas,Fugitive,2022,
+686,Central and South America,Argentina,281.0320129394531,IEA,Energy,Onshore gas,Vented,2022,
+687,Central and South America,Argentina,108.04299926757812,IEA,Energy,Onshore oil,Flared,2022,
+688,Central and South America,Argentina,35.355499267578125,IEA,Energy,Onshore oil,Fugitive,2022,
+689,Central and South America,Argentina,479.0,IEA,Energy,Onshore oil,Vented,2022,
+690,Central and South America,Argentina,0.0599999986588954,IEA,Energy,Other from coal,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+691,Central and South America,Argentina,23.195484161376957,IEA,Energy,Other from oil and gas,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+692,Central and South America,Argentina,27.299999237060547,IEA,Energy,Satellite-detected large oil and gas emissions,All,2022,
+693,Central and South America,Argentina,1307.0936279296875,IEA,Energy,Total,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+697,Central and South America,Bolivia,2.1519999504089355,IEA,Energy,Bioenergy,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+698,Central and South America,Bolivia,10.982500076293944,IEA,Energy,Gas pipelines and LNG facilities,Fugitive,2022,
+699,Central and South America,Bolivia,5.855899810791016,IEA,Energy,Gas pipelines and LNG facilities,Vented,2022,
+700,Central and South America,Bolivia,26.05279922485352,IEA,Energy,Onshore gas,Fugitive,2022,
+701,Central and South America,Bolivia,56.52909851074219,IEA,Energy,Onshore gas,Vented,2022,
+702,Central and South America,Bolivia,1.7418400049209597,IEA,Energy,Onshore oil,Flared,2022,
+703,Central and South America,Bolivia,1.4295300245285034,IEA,Energy,Onshore oil,Fugitive,2022,
+704,Central and South America,Bolivia,19.36739921569824,IEA,Energy,Onshore oil,Vented,2022,
+705,Central and South America,Bolivia,0.0040000001899898,IEA,Energy,Other from coal,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+706,Central and South America,Bolivia,3.98151445388794,IEA,Energy,Other from oil and gas,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+707,Central and South America,Bolivia,128.09658813476562,IEA,Energy,Total,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+711,Central and South America,Brazil,244.17999267578125,IEA,Energy,Bioenergy,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+712,Central and South America,Brazil,112.8280029296875,IEA,Energy,Gas pipelines and LNG facilities,Fugitive,2022,
+713,Central and South America,Brazil,60.15999984741211,IEA,Energy,Gas pipelines and LNG facilities,Vented,2022,
+714,Central and South America,Brazil,34.766998291015625,IEA,Energy,Offshore gas,Fugitive,2022,
+715,Central and South America,Brazil,75.43710327148438,IEA,Energy,Offshore gas,Vented,2022,
+716,Central and South America,Brazil,33.56959915161133,IEA,Energy,Offshore oil,Flared,2022,
+717,Central and South America,Brazil,68.62200164794922,IEA,Energy,Offshore oil,Fugitive,2022,
+718,Central and South America,Brazil,929.697998046875,IEA,Energy,Offshore oil,Vented,2022,
+719,Central and South America,Brazil,6.868589878082275,IEA,Energy,Onshore gas,Fugitive,2022,
+720,Central and South America,Brazil,14.903400421142578,IEA,Energy,Onshore gas,Vented,2022,
+721,Central and South America,Brazil,2.924030065536499,IEA,Energy,Onshore oil,Flared,2022,
+722,Central and South America,Brazil,6.9649200439453125,IEA,Energy,Onshore oil,Fugitive,2022,
+723,Central and South America,Brazil,94.36150360107422,IEA,Energy,Onshore oil,Vented,2022,
+724,Central and South America,Brazil,2.926365852355957,IEA,Energy,Other from coal,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+725,Central and South America,Brazil,55.15477752685547,IEA,Energy,Other from oil and gas,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+726,Central and South America,Brazil,13.13010025024414,IEA,Energy,Steam coal,All,2022,
+727,Central and South America,Brazil,1756.495361328125,IEA,Energy,Total,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+731,Central and South America,Colombia,42.119998931884766,IEA,Energy,Bioenergy,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+732,Central and South America,Colombia,25.47529983520508,IEA,Energy,Coking coal,All,2022,
+733,Central and South America,Colombia,20.607200622558597,IEA,Energy,Gas pipelines and LNG facilities,Fugitive,2022,
+734,Central and South America,Colombia,10.987799644470217,IEA,Energy,Gas pipelines and LNG facilities,Vented,2022,
+735,Central and South America,Colombia,1.9873499870300293,IEA,Energy,Offshore gas,Fugitive,2022,
+736,Central and South America,Colombia,4.312139987945557,IEA,Energy,Offshore gas,Vented,2022,
+737,Central and South America,Colombia,15.185199737548828,IEA,Energy,Onshore gas,Fugitive,2022,
+738,Central and South America,Colombia,32.948699951171875,IEA,Energy,Onshore gas,Vented,2022,
+739,Central and South America,Colombia,15.71339988708496,IEA,Energy,Onshore oil,Flared,2022,
+740,Central and South America,Colombia,16.522199630737305,IEA,Energy,Onshore oil,Fugitive,2022,
+741,Central and South America,Colombia,223.84500122070312,IEA,Energy,Onshore oil,Vented,2022,
+742,Central and South America,Colombia,1.0080000162124634,IEA,Energy,Other from coal,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+743,Central and South America,Colombia,9.72300624847412,IEA,Energy,Other from oil and gas,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+744,Central and South America,Colombia,357.7260131835937,IEA,Energy,Steam coal,All,2022,
+745,Central and South America,Colombia,778.1613159179688,IEA,Energy,Total,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+749,Central and South America,Cuba,2.563999891281128,IEA,Energy,Bioenergy,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+750,Central and South America,Cuba,2.105560064315796,IEA,Energy,Gas pipelines and LNG facilities,Fugitive,2022,
+751,Central and South America,Cuba,1.122689962387085,IEA,Energy,Gas pipelines and LNG facilities,Vented,2022,
+752,Central and South America,Cuba,0.0371554009616375,IEA,Energy,Offshore oil,Flared,2022,
+753,Central and South America,Cuba,0.1614560037851333,IEA,Energy,Offshore oil,Fugitive,2022,
+754,Central and South America,Cuba,2.187419891357422,IEA,Energy,Offshore oil,Vented,2022,
+755,Central and South America,Cuba,1.1218199729919434,IEA,Energy,Onshore gas,Fugitive,2022,
+756,Central and South America,Cuba,2.434109926223755,IEA,Energy,Onshore gas,Vented,2022,
+757,Central and South America,Cuba,0.1131689995527267,IEA,Energy,Onshore oil,Flared,2022,
+758,Central and South America,Cuba,0.5205600261688232,IEA,Energy,Onshore oil,Fugitive,2022,
+759,Central and South America,Cuba,7.052599906921387,IEA,Energy,Onshore oil,Vented,2022,
+760,Central and South America,Cuba,1.6445505619049072,IEA,Energy,Other from oil and gas,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+761,Central and South America,Cuba,21.06509017944336,IEA,Energy,Total,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+765,Central and South America,Ecuador,2.640000104904175,IEA,Energy,Bioenergy,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+766,Central and South America,Ecuador,1.2405200004577637,IEA,Energy,Gas pipelines and LNG facilities,Fugitive,2022,
+767,Central and South America,Ecuador,0.6614440083503723,IEA,Energy,Gas pipelines and LNG facilities,Vented,2022,
+768,Central and South America,Ecuador,0.6882500052452087,IEA,Energy,Offshore gas,Fugitive,2022,
+769,Central and South America,Ecuador,1.4933600425720217,IEA,Energy,Offshore gas,Vented,2022,
+770,Central and South America,Ecuador,0.0892553031444549,IEA,Energy,Onshore gas,Fugitive,2022,
+771,Central and South America,Ecuador,0.1936649978160858,IEA,Energy,Onshore gas,Vented,2022,
+772,Central and South America,Ecuador,33.08760070800781,IEA,Energy,Onshore oil,Flared,2022,
+773,Central and South America,Ecuador,15.96049976348877,IEA,Energy,Onshore oil,Fugitive,2022,
+774,Central and South America,Ecuador,216.2350006103516,IEA,Energy,Onshore oil,Vented,2022,
+775,Central and South America,Ecuador,4.809664726257324,IEA,Energy,Other from oil and gas,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+776,Central and South America,Ecuador,277.0992736816406,IEA,Energy,Total,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+780,Central and South America,Guyana,0.3479999899864197,IEA,Energy,Bioenergy,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+781,Central and South America,Guyana,0.894802987575531,IEA,Energy,Offshore oil,Flared,2022,
+782,Central and South America,Guyana,3.1610300540924072,IEA,Energy,Offshore oil,Fugitive,2022,
+783,Central and South America,Guyana,42.82590103149414,IEA,Energy,Offshore oil,Vented,2022,
+784,Central and South America,Guyana,0.3400000035762787,IEA,Energy,Other from oil and gas,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+785,Central and South America,Guyana,47.569732666015625,IEA,Energy,Total,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+789,Central and South America,Paraguay,15.16800022125244,IEA,Energy,Bioenergy,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+790,Central and South America,Paraguay,1.1800909042358398,IEA,Energy,Other from oil and gas,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+791,Central and South America,Paraguay,16.34809112548828,IEA,Energy,Total,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+795,Central and South America,Peru,29.643999099731445,IEA,Energy,Bioenergy,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+796,Central and South America,Peru,11.39739990234375,IEA,Energy,Gas pipelines and LNG facilities,Fugitive,2022,
+797,Central and South America,Peru,6.07712984085083,IEA,Energy,Gas pipelines and LNG facilities,Vented,2022,
+798,Central and South America,Peru,0.0343794003129005,IEA,Energy,Offshore gas,Fugitive,2022,
+799,Central and South America,Peru,0.0745960995554924,IEA,Energy,Offshore gas,Vented,2022,
+800,Central and South America,Peru,0.1935620009899139,IEA,Energy,Offshore oil,Flared,2022,
+801,Central and South America,Peru,0.1047400012612342,IEA,Energy,Offshore oil,Fugitive,2022,
+802,Central and South America,Peru,1.419029951095581,IEA,Energy,Offshore oil,Vented,2022,
+803,Central and South America,Peru,13.90250015258789,IEA,Energy,Onshore gas,Fugitive,2022,
+804,Central and South America,Peru,30.16550064086914,IEA,Energy,Onshore gas,Vented,2022,
+805,Central and South America,Peru,2.5104000568389893,IEA,Energy,Onshore oil,Flared,2022,
+806,Central and South America,Peru,1.9857100248336792,IEA,Energy,Onshore oil,Fugitive,2022,
+807,Central and South America,Peru,26.902700424194336,IEA,Energy,Onshore oil,Vented,2022,
+808,Central and South America,Peru,0.1480000019073486,IEA,Energy,Other from coal,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+809,Central and South America,Peru,7.150991439819336,IEA,Energy,Other from oil and gas,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+810,Central and South America,Peru,131.71063232421875,IEA,Energy,Total,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+814,Central and South America,Trinidad and Tobago,0.1319999992847442,IEA,Energy,Bioenergy,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+815,Central and South America,Trinidad and Tobago,25.766700744628903,IEA,Energy,Gas pipelines and LNG facilities,Fugitive,2022,
+816,Central and South America,Trinidad and Tobago,13.738800048828123,IEA,Energy,Gas pipelines and LNG facilities,Vented,2022,
+817,Central and South America,Trinidad and Tobago,38.73130035400391,IEA,Energy,Offshore gas,Fugitive,2022,
+818,Central and South America,Trinidad and Tobago,84.03890228271484,IEA,Energy,Offshore gas,Vented,2022,
+819,Central and South America,Trinidad and Tobago,7.2756500244140625,IEA,Energy,Offshore oil,Flared,2022,
+820,Central and South America,Trinidad and Tobago,1.146399974822998,IEA,Energy,Offshore oil,Fugitive,2022,
+821,Central and South America,Trinidad and Tobago,15.53159999847412,IEA,Energy,Offshore oil,Vented,2022,
+822,Central and South America,Trinidad and Tobago,1.4162399768829346,IEA,Energy,Onshore gas,Fugitive,2022,
+823,Central and South America,Trinidad and Tobago,3.0729401111602783,IEA,Energy,Onshore gas,Vented,2022,
+824,Central and South America,Trinidad and Tobago,4.033599853515625,IEA,Energy,Onshore oil,Flared,2022,
+825,Central and South America,Trinidad and Tobago,0.9220860004425048,IEA,Energy,Onshore oil,Fugitive,2022,
+826,Central and South America,Trinidad and Tobago,12.49250030517578,IEA,Energy,Onshore oil,Vented,2022,
+827,Central and South America,Trinidad and Tobago,0.9212819933891296,IEA,Energy,Other from oil and gas,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+828,Central and South America,Trinidad and Tobago,209.22000122070312,IEA,Energy,Total,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+832,Central and South America,Uruguay,6.484000205993652,IEA,Energy,Bioenergy,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+833,Central and South America,Uruguay,0.0730618014931678,IEA,Energy,Gas pipelines and LNG facilities,Fugitive,2022,
+834,Central and South America,Uruguay,0.0389566011726856,IEA,Energy,Gas pipelines and LNG facilities,Vented,2022,
+835,Central and South America,Uruguay,1.0034059286117554,IEA,Energy,Other from oil and gas,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+836,Central and South America,Uruguay,7.599424362182617,IEA,Energy,Total,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+840,Central and South America,Venezuela,1.712000012397766,IEA,Energy,Bioenergy,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+841,Central and South America,Venezuela,89.91120147705078,IEA,Energy,Gas pipelines and LNG facilities,Fugitive,2022,
+842,Central and South America,Venezuela,47.94070053100586,IEA,Energy,Gas pipelines and LNG facilities,Vented,2022,
+843,Central and South America,Venezuela,15.086600303649902,IEA,Energy,Offshore gas,Fugitive,2022,
+844,Central and South America,Venezuela,32.734901428222656,IEA,Energy,Offshore gas,Vented,2022,
+845,Central and South America,Venezuela,69.818603515625,IEA,Energy,Offshore oil,Flared,2022,
+846,Central and South America,Venezuela,7.645170211791992,IEA,Energy,Offshore oil,Fugitive,2022,
+847,Central and South America,Venezuela,103.5780029296875,IEA,Energy,Offshore oil,Vented,2022,
+848,Central and South America,Venezuela,43.007301330566406,IEA,Energy,Onshore gas,Fugitive,2022,
+849,Central and South America,Venezuela,93.31690216064452,IEA,Energy,Onshore gas,Vented,2022,
+850,Central and South America,Venezuela,516.6900024414062,IEA,Energy,Onshore oil,Flared,2022,
+851,Central and South America,Venezuela,110.63700103759766,IEA,Energy,Onshore oil,Fugitive,2022,
+852,Central and South America,Venezuela,1498.9200439453125,IEA,Energy,Onshore oil,Vented,2022,
+853,Central and South America,Venezuela,0.0199999995529651,IEA,Energy,Other from coal,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+854,Central and South America,Venezuela,11.28501796722412,IEA,Energy,Other from oil and gas,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+855,Central and South America,Venezuela,0.400187999010086,IEA,Energy,Steam coal,All,2022,
+856,Central and South America,Venezuela,2642.70361328125,IEA,Energy,Total,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+860,Europe,Denmark,18.73600006103516,IEA,Energy,Bioenergy,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+861,Europe,Denmark,2.726219892501831,IEA,Energy,Gas pipelines and LNG facilities,Fugitive,2022,
+862,Europe,Denmark,1.4536199569702148,IEA,Energy,Gas pipelines and LNG facilities,Vented,2022,
+863,Europe,Denmark,0.9020119905471802,IEA,Energy,Offshore gas,Fugitive,2022,
+864,Europe,Denmark,1.9571800231933596,IEA,Energy,Offshore gas,Vented,2022,
+865,Europe,Denmark,1.06482994556427,IEA,Energy,Offshore oil,Flared,2022,
+866,Europe,Denmark,0.7979829907417297,IEA,Energy,Offshore oil,Fugitive,2022,
+867,Europe,Denmark,10.811200141906738,IEA,Energy,Offshore oil,Vented,2022,
+868,Europe,Denmark,0.1560000032186508,IEA,Energy,Other from coal,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+869,Europe,Denmark,2.9107894897460938,IEA,Energy,Other from oil and gas,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+870,Europe,Denmark,41.51583480834961,IEA,Energy,Total,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+874,Europe,Estonia,7.492000102996826,IEA,Energy,Bioenergy,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+875,Europe,Estonia,0.4573050141334533,IEA,Energy,Gas pipelines and LNG facilities,Fugitive,2022,
+876,Europe,Estonia,0.2438350021839141,IEA,Energy,Gas pipelines and LNG facilities,Vented,2022,
+877,Europe,Estonia,0.1895090043544769,IEA,Energy,Onshore oil,Fugitive,2022,
+878,Europe,Estonia,2.567490100860596,IEA,Energy,Onshore oil,Vented,2022,
+879,Europe,Estonia,0.0719999969005584,IEA,Energy,Other from coal,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+880,Europe,Estonia,0.6021052002906799,IEA,Energy,Other from oil and gas,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+881,Europe,Estonia,11.624244689941406,IEA,Energy,Total,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+885,Europe,European Union,718.3679809570312,IEA,Energy,Bioenergy,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+886,Europe,European Union,304.9960021972656,IEA,Energy,Coking coal,All,2022,
+887,Europe,European Union,458.7090148925781,IEA,Energy,Gas pipelines and LNG facilities,Fugitive,2022,
+888,Europe,European Union,244.58399963378903,IEA,Energy,Gas pipelines and LNG facilities,Vented,2022,
+889,Europe,European Union,9.014630317687988,IEA,Energy,Offshore gas,Fugitive,2022,
+890,Europe,European Union,19.55990028381348,IEA,Energy,Offshore gas,Vented,2022,
+891,Europe,European Union,1.691409945487976,IEA,Energy,Offshore oil,Flared,2022,
+892,Europe,European Union,1.8436199426651,IEA,Energy,Offshore oil,Fugitive,2022,
+893,Europe,European Union,24.977500915527344,IEA,Energy,Offshore oil,Vented,2022,
+894,Europe,European Union,44.33060073852539,IEA,Energy,Onshore gas,Fugitive,2022,
+895,Europe,European Union,96.18810272216795,IEA,Energy,Onshore gas,Vented,2022,
+896,Europe,European Union,6.736599922180176,IEA,Energy,Onshore oil,Flared,2022,
+897,Europe,European Union,6.779469966888428,IEA,Energy,Onshore oil,Fugitive,2022,
+898,Europe,European Union,91.8489990234375,IEA,Energy,Onshore oil,Vented,2022,
+899,Europe,European Union,180.86019897460935,IEA,Energy,Other from coal,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+900,Europe,European Union,201.7899475097656,IEA,Energy,Other from oil and gas,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+901,Europe,European Union,3.900000095367432,IEA,Energy,Satellite-detected large oil and gas emissions,All,2022,
+902,Europe,European Union,344.7919921875,IEA,Energy,Steam coal,All,2022,
+903,Europe,European Union,2760.969970703125,IEA,Energy,Total,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+907,Europe,France,101.49199676513672,IEA,Energy,Bioenergy,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+908,Europe,France,40.82229995727539,IEA,Energy,Gas pipelines and LNG facilities,Fugitive,2022,
+909,Europe,France,21.76650047302246,IEA,Energy,Gas pipelines and LNG facilities,Vented,2022,
+910,Europe,France,0.0442343987524509,IEA,Energy,Onshore gas,Fugitive,2022,
+911,Europe,France,0.0959794968366622,IEA,Energy,Onshore gas,Vented,2022,
+912,Europe,France,0.0672037973999977,IEA,Energy,Onshore oil,Flared,2022,
+913,Europe,France,0.2230300009250641,IEA,Energy,Onshore oil,Fugitive,2022,
+914,Europe,France,3.021630048751831,IEA,Energy,Onshore oil,Vented,2022,
+915,Europe,France,1.059999942779541,IEA,Energy,Other from coal,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+916,Europe,France,25.00359344482422,IEA,Energy,Other from oil and gas,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+917,Europe,France,193.59646606445312,IEA,Energy,Total,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+921,Europe,Germany,114.13600158691406,IEA,Energy,Bioenergy,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+922,Europe,Germany,0.0868304967880249,IEA,Energy,Coking coal,All,2022,
+923,Europe,Germany,84.2916030883789,IEA,Energy,Gas pipelines and LNG facilities,Fugitive,2022,
+924,Europe,Germany,44.94440078735352,IEA,Energy,Gas pipelines and LNG facilities,Vented,2022,
+925,Europe,Germany,0.0107698002830147,IEA,Energy,Offshore gas,Fugitive,2022,
+926,Europe,Germany,0.0233682002872228,IEA,Energy,Offshore gas,Vented,2022,
+927,Europe,Germany,0.3184660077095032,IEA,Energy,Offshore oil,Fugitive,2022,
+928,Europe,Germany,4.314610004425049,IEA,Energy,Offshore oil,Vented,2022,
+929,Europe,Germany,5.684599876403809,IEA,Energy,Onshore gas,Fugitive,2022,
+930,Europe,Germany,12.334400177001951,IEA,Energy,Onshore gas,Vented,2022,
+931,Europe,Germany,0.2516910135746002,IEA,Energy,Onshore oil,Fugitive,2022,
+932,Europe,Germany,3.4099299907684326,IEA,Energy,Onshore oil,Vented,2022,
+933,Europe,Germany,39.32740020751953,IEA,Energy,Other from coal,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+934,Europe,Germany,43.88136291503906,IEA,Energy,Other from oil and gas,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+935,Europe,Germany,0.0782919004559516,IEA,Energy,Steam coal,All,2022,
+936,Europe,Germany,353.0937194824219,IEA,Energy,Total,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+940,Europe,Israel,0.2319999933242797,IEA,Energy,Bioenergy,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+941,Europe,Israel,9.15740966796875,IEA,Energy,Gas pipelines and LNG facilities,Fugitive,2022,
+942,Europe,Israel,4.882740020751953,IEA,Energy,Gas pipelines and LNG facilities,Vented,2022,
+943,Europe,Israel,7.401080131530762,IEA,Energy,Offshore gas,Fugitive,2022,
+944,Europe,Israel,16.058799743652344,IEA,Energy,Offshore gas,Vented,2022,
+945,Europe,Israel,0.1599999964237213,IEA,Energy,Other from coal,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+946,Europe,Israel,5.316966533660889,IEA,Energy,Other from oil and gas,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+947,Europe,Israel,43.2089958190918,IEA,Energy,Total,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+951,Europe,Italy,85.55999755859375,IEA,Energy,Bioenergy,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+952,Europe,Italy,92.07659912109376,IEA,Energy,Gas pipelines and LNG facilities,Fugitive,2022,
+953,Europe,Italy,49.09529876708984,IEA,Energy,Gas pipelines and LNG facilities,Vented,2022,
+954,Europe,Italy,1.5074299573898315,IEA,Energy,Offshore gas,Fugitive,2022,
+955,Europe,Italy,3.2708098888397217,IEA,Energy,Offshore gas,Vented,2022,
+956,Europe,Italy,0.1117599979043006,IEA,Energy,Offshore oil,Fugitive,2022,
+957,Europe,Italy,1.514140009880066,IEA,Energy,Offshore oil,Vented,2022,
+958,Europe,Italy,1.4753999710083008,IEA,Energy,Onshore gas,Fugitive,2022,
+959,Europe,Italy,3.201319932937622,IEA,Energy,Onshore gas,Vented,2022,
+960,Europe,Italy,1.1967600584030151,IEA,Energy,Onshore oil,Fugitive,2022,
+961,Europe,Italy,16.213899612426758,IEA,Energy,Onshore oil,Vented,2022,
+962,Europe,Italy,0.4440000057220459,IEA,Energy,Other from coal,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+963,Europe,Italy,30.119037628173828,IEA,Energy,Other from oil and gas,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+964,Europe,Italy,285.7864685058594,IEA,Energy,Total,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+968,Europe,Netherlands,14.428000450134276,IEA,Energy,Bioenergy,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+969,Europe,Netherlands,1.893610000610352,IEA,Energy,Gas pipelines and LNG facilities,Fugitive,2022,
+970,Europe,Netherlands,1.0096800327301023,IEA,Energy,Gas pipelines and LNG facilities,Vented,2022,
+971,Europe,Netherlands,0.3183850049972534,IEA,Energy,Offshore gas,Fugitive,2022,
+972,Europe,Netherlands,0.6908299922943115,IEA,Energy,Offshore gas,Vented,2022,
+973,Europe,Netherlands,0.0011635599657893,IEA,Energy,Offshore oil,Flared,2022,
+974,Europe,Netherlands,0.0031794500537216,IEA,Energy,Offshore oil,Fugitive,2022,
+975,Europe,Netherlands,0.0430754981935024,IEA,Energy,Offshore oil,Vented,2022,
+976,Europe,Netherlands,0.2382200062274933,IEA,Energy,Onshore gas,Fugitive,2022,
+977,Europe,Netherlands,0.5168870091438293,IEA,Energy,Onshore gas,Vented,2022,
+978,Europe,Netherlands,0.0010810999665409,IEA,Energy,Onshore oil,Flared,2022,
+979,Europe,Netherlands,0.0035959200467914,IEA,Energy,Onshore oil,Fugitive,2022,
+980,Europe,Netherlands,0.0487179011106491,IEA,Energy,Onshore oil,Vented,2022,
+981,Europe,Netherlands,0.2879999876022339,IEA,Energy,Other from coal,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+982,Europe,Netherlands,9.774954795837402,IEA,Energy,Other from oil and gas,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+983,Europe,Netherlands,29.25938034057617,IEA,Energy,Total,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+987,Europe,Norway,8.583999633789062,IEA,Energy,Bioenergy,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+988,Europe,Norway,0.2100310027599334,IEA,Energy,Gas pipelines and LNG facilities,Fugitive,2022,
+989,Europe,Norway,0.1119880005717277,IEA,Energy,Gas pipelines and LNG facilities,Vented,2022,
+990,Europe,Norway,4.233789920806885,IEA,Energy,Offshore gas,Fugitive,2022,
+991,Europe,Norway,9.186440467834473,IEA,Energy,Offshore gas,Vented,2022,
+992,Europe,Norway,0.2457319945096969,IEA,Energy,Offshore oil,Flared,2022,
+993,Europe,Norway,0.8709380030632019,IEA,Energy,Offshore oil,Fugitive,2022,
+994,Europe,Norway,11.799599647521973,IEA,Energy,Offshore oil,Vented,2022,
+995,Europe,Norway,0.517831027507782,IEA,Energy,Onshore gas,Fugitive,2022,
+996,Europe,Norway,1.1235899925231934,IEA,Energy,Onshore gas,Vented,2022,
+997,Europe,Norway,0.0124765997752547,IEA,Energy,Onshore oil,Flared,2022,
+998,Europe,Norway,0.1004109978675842,IEA,Energy,Onshore oil,Fugitive,2022,
+999,Europe,Norway,1.3603800535202026,IEA,Energy,Onshore oil,Vented,2022,
+1000,Europe,Norway,0.2240000069141388,IEA,Energy,Other from coal,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+1001,Europe,Norway,2.5225651264190674,IEA,Energy,Other from oil and gas,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+1002,Europe,Norway,41.1037712097168,IEA,Energy,Total,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+1062,Europe,Poland,76.10800170898438,IEA,Energy,Bioenergy,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+1063,Europe,Poland,288.365966796875,IEA,Energy,Coking coal,All,2022,
+1064,Europe,Poland,24.7455997467041,IEA,Energy,Gas pipelines and LNG facilities,Fugitive,2022,
+1065,Europe,Poland,13.1943998336792,IEA,Energy,Gas pipelines and LNG facilities,Vented,2022,
+1066,Europe,Poland,0.027293499559164,IEA,Energy,Offshore gas,Fugitive,2022,
+1067,Europe,Poland,0.0592212006449699,IEA,Energy,Offshore gas,Vented,2022,
+1068,Europe,Poland,0.2030189931392669,IEA,Energy,Offshore oil,Flared,2022,
+1069,Europe,Poland,0.0970619022846221,IEA,Energy,Offshore oil,Fugitive,2022,
+1070,Europe,Poland,1.315000057220459,IEA,Energy,Offshore oil,Vented,2022,
+1071,Europe,Poland,4.089399814605713,IEA,Energy,Onshore gas,Fugitive,2022,
+1072,Europe,Poland,8.873149871826172,IEA,Energy,Onshore gas,Vented,2022,
+1073,Europe,Poland,0.4617680013179779,IEA,Energy,Onshore oil,Flared,2022,
+1074,Europe,Poland,0.220768004655838,IEA,Energy,Onshore oil,Fugitive,2022,
+1075,Europe,Poland,2.990989923477173,IEA,Energy,Onshore oil,Vented,2022,
+1076,Europe,Poland,93.0925064086914,IEA,Energy,Other from coal,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+1077,Europe,Poland,17.35107421875,IEA,Energy,Other from oil and gas,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+1078,Europe,Poland,334.0936584472656,IEA,Energy,Steam coal,All,2022,
+1079,Europe,Poland,865.2888793945312,IEA,Energy,Total,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+1083,Europe,Romania,39.52399826049805,IEA,Energy,Bioenergy,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+1084,Europe,Romania,46.83150100708008,IEA,Energy,Gas pipelines and LNG facilities,Fugitive,2022,
+1085,Europe,Romania,24.970600128173828,IEA,Energy,Gas pipelines and LNG facilities,Vented,2022,
+1086,Europe,Romania,3.780659914016724,IEA,Energy,Offshore gas,Fugitive,2022,
+1087,Europe,Romania,8.203240394592285,IEA,Energy,Offshore gas,Vented,2022,
+1088,Europe,Romania,0.2597779929637909,IEA,Energy,Offshore oil,Flared,2022,
+1089,Europe,Romania,0.480318009853363,IEA,Energy,Offshore oil,Fugitive,2022,
+1090,Europe,Romania,6.507400035858154,IEA,Energy,Offshore oil,Vented,2022,
+1091,Europe,Romania,28.02179908752441,IEA,Energy,Onshore gas,Fugitive,2022,
+1092,Europe,Romania,60.80139923095703,IEA,Energy,Onshore gas,Vented,2022,
+1093,Europe,Romania,1.843999981880188,IEA,Energy,Onshore oil,Flared,2022,
+1094,Europe,Romania,3.475430011749268,IEA,Energy,Onshore oil,Fugitive,2022,
+1095,Europe,Romania,47.08539962768555,IEA,Energy,Onshore oil,Vented,2022,
+1096,Europe,Romania,7.88286018371582,IEA,Energy,Other from coal,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+1097,Europe,Romania,5.377346992492676,IEA,Energy,Other from oil and gas,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+1098,Europe,Romania,0.3651750087738037,IEA,Energy,Steam coal,All,2022,
+1099,Europe,Romania,285.4109191894531,IEA,Energy,Total,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+1103,Europe,Slovenia,5.291999816894531,IEA,Energy,Bioenergy,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+1104,Europe,Slovenia,0.9561610221862792,IEA,Energy,Gas pipelines and LNG facilities,Fugitive,2022,
+1105,Europe,Slovenia,0.5098260045051575,IEA,Energy,Gas pipelines and LNG facilities,Vented,2022,
+1106,Europe,Slovenia,0.003344029886648,IEA,Energy,Onshore gas,Fugitive,2022,
+1107,Europe,Slovenia,0.0072558601386845,IEA,Energy,Onshore gas,Vented,2022,
+1108,Europe,Slovenia,0.0520000010728836,IEA,Energy,Other from coal,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+1109,Europe,Slovenia,0.9063668847084044,IEA,Energy,Other from oil and gas,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+1110,Europe,Slovenia,7.726953983306885,IEA,Energy,Total,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+1114,Europe,Sweden,26.739999771118164,IEA,Energy,Bioenergy,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+1115,Europe,Sweden,0.9052929878234864,IEA,Energy,Gas pipelines and LNG facilities,Fugitive,2022,
+1116,Europe,Sweden,0.4827030003070831,IEA,Energy,Gas pipelines and LNG facilities,Vented,2022,
+1117,Europe,Sweden,0.2039999961853027,IEA,Energy,Other from coal,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+1118,Europe,Sweden,3.65855860710144,IEA,Energy,Other from oil and gas,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+1119,Europe,Sweden,31.990554809570312,IEA,Energy,Total,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+1123,Europe,Ukraine,26.823999404907227,IEA,Energy,Bioenergy,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+1124,Europe,Ukraine,8.821840286254883,IEA,Energy,Coking coal,All,2022,
+1125,Europe,Ukraine,51.25749969482422,IEA,Energy,Gas pipelines and LNG facilities,Fugitive,2022,
+1126,Europe,Ukraine,27.33049964904785,IEA,Energy,Gas pipelines and LNG facilities,Vented,2022,
+1127,Europe,Ukraine,1.9321800470352173,IEA,Energy,Offshore gas,Fugitive,2022,
+1128,Europe,Ukraine,4.192430019378662,IEA,Energy,Offshore gas,Vented,2022,
+1129,Europe,Ukraine,24.091100692749023,IEA,Energy,Onshore gas,Fugitive,2022,
+1130,Europe,Ukraine,52.27270126342773,IEA,Energy,Onshore gas,Vented,2022,
+1131,Europe,Ukraine,0.7214000225067139,IEA,Energy,Onshore oil,Flared,2022,
+1132,Europe,Ukraine,0.294638991355896,IEA,Energy,Onshore oil,Fugitive,2022,
+1133,Europe,Ukraine,3.99180006980896,IEA,Energy,Onshore oil,Vented,2022,
+1134,Europe,Ukraine,5.300000190734863,IEA,Energy,Other from coal,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+1135,Europe,Ukraine,10.643465042114258,IEA,Energy,Other from oil and gas,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+1136,Europe,Ukraine,335.7476501464844,IEA,Energy,Steam coal,All,2022,
+1137,Europe,Ukraine,553.4212036132812,IEA,Energy,Total,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+1141,Europe,United Kingdom,25.0,IEA,Energy,Bioenergy,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+1142,Europe,United Kingdom,12.079899787902832,IEA,Energy,Coking coal,All,2022,
+1143,Europe,United Kingdom,38.53329849243164,IEA,Energy,Gas pipelines and LNG facilities,Fugitive,2022,
+1144,Europe,United Kingdom,20.54599952697754,IEA,Energy,Gas pipelines and LNG facilities,Vented,2022,
+1145,Europe,United Kingdom,15.138699531555176,IEA,Energy,Offshore gas,Fugitive,2022,
+1146,Europe,United Kingdom,32.847801208496094,IEA,Energy,Offshore gas,Vented,2022,
+1147,Europe,United Kingdom,9.113069534301758,IEA,Energy,Offshore oil,Flared,2022,
+1148,Europe,United Kingdom,4.6284499168396,IEA,Energy,Offshore oil,Fugitive,2022,
+1149,Europe,United Kingdom,62.70669937133789,IEA,Energy,Offshore oil,Vented,2022,
+1150,Europe,United Kingdom,0.0364420004189014,IEA,Energy,Onshore gas,Fugitive,2022,
+1151,Europe,United Kingdom,0.0790714994072914,IEA,Energy,Onshore gas,Vented,2022,
+1152,Europe,United Kingdom,0.6511970162391663,IEA,Energy,Onshore oil,Flared,2022,
+1153,Europe,United Kingdom,0.5192430019378662,IEA,Energy,Onshore oil,Fugitive,2022,
+1154,Europe,United Kingdom,7.034759998321533,IEA,Energy,Onshore oil,Vented,2022,
+1155,Europe,United Kingdom,6.340023040771484,IEA,Energy,Other from coal,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+1156,Europe,United Kingdom,30.171592712402344,IEA,Energy,Other from oil and gas,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+1157,Europe,United Kingdom,9.205160140991213,IEA,Energy,Steam coal,All,2022,
+1158,Europe,United Kingdom,274.63140869140625,IEA,Energy,Total,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+1162,Middle East,Bahrain,21.768299102783203,IEA,Energy,Gas pipelines and LNG facilities,Fugitive,2022,
+1163,Middle East,Bahrain,11.606900215148926,IEA,Energy,Gas pipelines and LNG facilities,Vented,2022,
+1164,Middle East,Bahrain,25.437000274658203,IEA,Energy,Onshore gas,Fugitive,2022,
+1165,Middle East,Bahrain,55.19309997558594,IEA,Energy,Onshore gas,Vented,2022,
+1166,Middle East,Bahrain,8.28162956237793,IEA,Energy,Onshore oil,Flared,2022,
+1167,Middle East,Bahrain,4.591300010681152,IEA,Energy,Onshore oil,Fugitive,2022,
+1168,Middle East,Bahrain,62.203399658203125,IEA,Energy,Onshore oil,Vented,2022,
+1169,Middle East,Bahrain,1.6036285161972046,IEA,Energy,Other from oil and gas,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+1170,Middle East,Bahrain,190.6852569580078,IEA,Energy,Total,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+1174,Middle East,Iran,6.395999908447266,IEA,Energy,Bioenergy,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+1175,Middle East,Iran,35.70140075683594,IEA,Energy,Coking coal,All,2022,
+1176,Middle East,Iran,456.5490112304688,IEA,Energy,Gas pipelines and LNG facilities,Fugitive,2022,
+1177,Middle East,Iran,243.4320068359375,IEA,Energy,Gas pipelines and LNG facilities,Vented,2022,
+1178,Middle East,Iran,319.0220031738281,IEA,Energy,Offshore gas,Fugitive,2022,
+1179,Middle East,Iran,692.2109985351562,IEA,Energy,Offshore gas,Vented,2022,
+1180,Middle East,Iran,136.44500732421875,IEA,Energy,Offshore oil,Flared,2022,
+1181,Middle East,Iran,14.240300178527832,IEA,Energy,Offshore oil,Fugitive,2022,
+1182,Middle East,Iran,192.9290008544922,IEA,Energy,Offshore oil,Vented,2022,
+1183,Middle East,Iran,108.2699966430664,IEA,Energy,Onshore gas,Fugitive,2022,
+1184,Middle East,Iran,234.92300415039065,IEA,Energy,Onshore gas,Vented,2022,
+1185,Middle East,Iran,1123.780029296875,IEA,Energy,Onshore oil,Flared,2022,
+1186,Middle East,Iran,133.2740020751953,IEA,Energy,Onshore oil,Fugitive,2022,
+1187,Middle East,Iran,1805.6099853515625,IEA,Energy,Onshore oil,Vented,2022,
+1188,Middle East,Iran,0.2560796439647674,IEA,Energy,Other from coal,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+1189,Middle East,Iran,77.52406311035156,IEA,Energy,Other from oil and gas,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+1190,Middle East,Iran,48.70000076293945,IEA,Energy,Satellite-detected large oil and gas emissions,All,2022,
+1191,Middle East,Iran,0.5593019723892212,IEA,Energy,Steam coal,All,2022,
+1192,Middle East,Iran,5629.822265625,IEA,Energy,Total,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+1196,Middle East,Iraq,0.1319999992847442,IEA,Energy,Bioenergy,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+1197,Middle East,Iraq,14.830699920654297,IEA,Energy,Gas pipelines and LNG facilities,Fugitive,2022,
+1198,Middle East,Iraq,7.907760143280029,IEA,Energy,Gas pipelines and LNG facilities,Vented,2022,
+1199,Middle East,Iraq,12.694299697875977,IEA,Energy,Onshore gas,Fugitive,2022,
+1200,Middle East,Iraq,27.54389953613281,IEA,Energy,Onshore gas,Vented,2022,
+1201,Middle East,Iraq,880.7940063476562,IEA,Energy,Onshore oil,Flared,2022,
+1202,Middle East,Iraq,103.09300231933594,IEA,Energy,Onshore oil,Fugitive,2022,
+1203,Middle East,Iraq,1396.719970703125,IEA,Energy,Onshore oil,Vented,2022,
+1204,Middle East,Iraq,12.136960983276367,IEA,Energy,Other from oil and gas,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+1205,Middle East,Iraq,59.20000076293945,IEA,Energy,Satellite-detected large oil and gas emissions,All,2022,
+1206,Middle East,Iraq,2515.052734375,IEA,Energy,Total,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+1210,Middle East,Jordan,0.7360000014305115,IEA,Energy,Bioenergy,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+1211,Middle East,Jordan,25.43269920349121,IEA,Energy,Gas pipelines and LNG facilities,Fugitive,2022,
+1212,Middle East,Jordan,13.56070041656494,IEA,Energy,Gas pipelines and LNG facilities,Vented,2022,
+1213,Middle East,Jordan,0.2283540070056915,IEA,Energy,Onshore gas,Fugitive,2022,
+1214,Middle East,Jordan,0.495481014251709,IEA,Energy,Onshore gas,Vented,2022,
+1215,Middle East,Jordan,0.1605959981679916,IEA,Energy,Onshore oil,Fugitive,2022,
+1216,Middle East,Jordan,2.1757700443267822,IEA,Energy,Onshore oil,Vented,2022,
+1217,Middle East,Jordan,0.0879999995231628,IEA,Energy,Other from coal,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+1218,Middle East,Jordan,2.729363918304444,IEA,Energy,Other from oil and gas,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+1219,Middle East,Jordan,1.600000023841858,IEA,Energy,Satellite-detected large oil and gas emissions,All,2022,
+1220,Middle East,Jordan,47.20696640014648,IEA,Energy,Total,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+1224,Middle East,Kuwait,39.97169876098633,IEA,Energy,Gas pipelines and LNG facilities,Fugitive,2022,
+1225,Middle East,Kuwait,21.31290054321289,IEA,Energy,Gas pipelines and LNG facilities,Vented,2022,
+1226,Middle East,Kuwait,0.8785409927368164,IEA,Energy,Offshore oil,Flared,2022,
+1227,Middle East,Kuwait,1.7110300064086914,IEA,Energy,Offshore oil,Fugitive,2022,
+1228,Middle East,Kuwait,23.18120002746582,IEA,Energy,Offshore oil,Vented,2022,
+1229,Middle East,Kuwait,23.946399688720703,IEA,Energy,Onshore gas,Fugitive,2022,
+1230,Middle East,Kuwait,51.95880126953125,IEA,Energy,Onshore gas,Vented,2022,
+1231,Middle East,Kuwait,27.199499130249023,IEA,Energy,Onshore oil,Flared,2022,
+1232,Middle East,Kuwait,54.91999816894531,IEA,Energy,Onshore oil,Fugitive,2022,
+1233,Middle East,Kuwait,744.06201171875,IEA,Energy,Onshore oil,Vented,2022,
+1234,Middle East,Kuwait,6.340137004852295,IEA,Energy,Other from oil and gas,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+1235,Middle East,Kuwait,6.599999904632568,IEA,Energy,Satellite-detected large oil and gas emissions,All,2022,
+1236,Middle East,Kuwait,1002.0822143554688,IEA,Energy,Total,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+1240,Middle East,Lebanon,1.555999994277954,IEA,Energy,Bioenergy,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+1241,Middle East,Lebanon,0.0480000004172325,IEA,Energy,Other from coal,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+1242,Middle East,Lebanon,3.108916044235229,IEA,Energy,Other from oil and gas,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+1243,Middle East,Lebanon,4.712915897369385,IEA,Energy,Total,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+1247,Middle East,Oman,45.88990020751953,IEA,Energy,Gas pipelines and LNG facilities,Fugitive,2022,
+1248,Middle East,Oman,24.4685001373291,IEA,Energy,Gas pipelines and LNG facilities,Vented,2022,
+1249,Middle East,Oman,0.1786990016698837,IEA,Energy,Offshore gas,Fugitive,2022,
+1250,Middle East,Oman,0.3877390027046203,IEA,Energy,Offshore gas,Vented,2022,
+1251,Middle East,Oman,1.8252700567245483,IEA,Energy,Offshore oil,Flared,2022,
+1252,Middle East,Oman,0.3589940071105957,IEA,Energy,Offshore oil,Fugitive,2022,
+1253,Middle East,Oman,4.86368989944458,IEA,Energy,Offshore oil,Vented,2022,
+1254,Middle East,Oman,79.91580200195312,IEA,Energy,Onshore gas,Fugitive,2022,
+1255,Middle East,Oman,173.4010009765625,IEA,Energy,Onshore gas,Vented,2022,
+1256,Middle East,Oman,128.33999633789062,IEA,Energy,Onshore oil,Flared,2022,
+1257,Middle East,Oman,27.771900177001957,IEA,Energy,Onshore oil,Fugitive,2022,
+1258,Middle East,Oman,376.2569885253906,IEA,Energy,Onshore oil,Vented,2022,
+1259,Middle East,Oman,5.598037242889404,IEA,Energy,Other from oil and gas,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+1260,Middle East,Oman,869.2565307617188,IEA,Energy,Total,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+1264,Middle East,Qatar,0.0839999988675117,IEA,Energy,Bioenergy,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+1265,Middle East,Qatar,57.90470123291016,IEA,Energy,Gas pipelines and LNG facilities,Fugitive,2022,
+1266,Middle East,Qatar,30.874799728393555,IEA,Energy,Gas pipelines and LNG facilities,Vented,2022,
+1267,Middle East,Qatar,198.3000030517578,IEA,Energy,Offshore gas,Fugitive,2022,
+1268,Middle East,Qatar,430.2699890136719,IEA,Energy,Offshore gas,Vented,2022,
+1269,Middle East,Qatar,17.21139907836914,IEA,Energy,Offshore oil,Flared,2022,
+1270,Middle East,Qatar,7.383190155029297,IEA,Energy,Offshore oil,Fugitive,2022,
+1271,Middle East,Qatar,100.02799987792967,IEA,Energy,Offshore oil,Vented,2022,
+1272,Middle East,Qatar,2.607290029525757,IEA,Energy,Onshore gas,Fugitive,2022,
+1273,Middle East,Qatar,5.657279968261719,IEA,Energy,Onshore gas,Vented,2022,
+1274,Middle East,Qatar,22.44700050354004,IEA,Energy,Onshore oil,Flared,2022,
+1275,Middle East,Qatar,17.991199493408203,IEA,Energy,Onshore oil,Fugitive,2022,
+1276,Middle East,Qatar,243.7460021972656,IEA,Energy,Onshore oil,Vented,2022,
+1277,Middle East,Qatar,4.012920379638672,IEA,Energy,Other from oil and gas,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+1278,Middle East,Qatar,1138.517822265625,IEA,Energy,Total,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+1282,Middle East,Saudi Arabia,0.0680000036954879,IEA,Energy,Bioenergy,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+1283,Middle East,Saudi Arabia,122.68599700927734,IEA,Energy,Gas pipelines and LNG facilities,Fugitive,2022,
+1284,Middle East,Saudi Arabia,65.41629791259766,IEA,Energy,Gas pipelines and LNG facilities,Vented,2022,
+1285,Middle East,Saudi Arabia,36.35609817504883,IEA,Energy,Offshore gas,Fugitive,2022,
+1286,Middle East,Saudi Arabia,78.88510131835938,IEA,Energy,Offshore gas,Vented,2022,
+1287,Middle East,Saudi Arabia,30.21109962463379,IEA,Energy,Offshore oil,Flared,2022,
+1288,Middle East,Saudi Arabia,62.139198303222656,IEA,Energy,Offshore oil,Fugitive,2022,
+1289,Middle East,Saudi Arabia,841.8679809570312,IEA,Energy,Offshore oil,Vented,2022,
+1290,Middle East,Saudi Arabia,54.8218002319336,IEA,Energy,Onshore gas,Fugitive,2022,
+1291,Middle East,Saudi Arabia,118.9520034790039,IEA,Energy,Onshore gas,Vented,2022,
+1292,Middle East,Saudi Arabia,47.22969818115234,IEA,Energy,Onshore oil,Flared,2022,
+1293,Middle East,Saudi Arabia,105.85099792480467,IEA,Energy,Onshore oil,Fugitive,2022,
+1294,Middle East,Saudi Arabia,1434.0799560546875,IEA,Energy,Onshore oil,Vented,2022,
+1295,Middle East,Saudi Arabia,42.53243255615234,IEA,Energy,Other from oil and gas,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+1296,Middle East,Saudi Arabia,10.0,IEA,Energy,Satellite-detected large oil and gas emissions,All,2022,
+1297,Middle East,Saudi Arabia,3051.0966796875,IEA,Energy,Total,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+1301,Middle East,Syria,0.0199999995529651,IEA,Energy,Bioenergy,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+1302,Middle East,Syria,14.07289981842041,IEA,Energy,Gas pipelines and LNG facilities,Fugitive,2022,
+1303,Middle East,Syria,7.503680229187012,IEA,Energy,Gas pipelines and LNG facilities,Vented,2022,
+1304,Middle East,Syria,11.43529987335205,IEA,Energy,Onshore gas,Fugitive,2022,
+1305,Middle East,Syria,24.81220054626465,IEA,Energy,Onshore gas,Vented,2022,
+1306,Middle East,Syria,65.5958023071289,IEA,Energy,Onshore oil,Flared,2022,
+1307,Middle East,Syria,7.346819877624512,IEA,Energy,Onshore oil,Fugitive,2022,
+1308,Middle East,Syria,99.5354995727539,IEA,Energy,Onshore oil,Vented,2022,
+1309,Middle East,Syria,2.442213773727417,IEA,Energy,Other from oil and gas,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+1310,Middle East,Syria,4.900000095367432,IEA,Energy,Satellite-detected large oil and gas emissions,All,2022,
+1311,Middle East,Syria,237.66441345214844,IEA,Energy,Total,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+1315,Middle East,United Arab Emirates,0.3000000119209289,IEA,Energy,Bioenergy,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+1316,Middle East,United Arab Emirates,87.21330261230469,IEA,Energy,Gas pipelines and LNG facilities,Fugitive,2022,
+1317,Middle East,United Arab Emirates,46.502201080322266,IEA,Energy,Gas pipelines and LNG facilities,Vented,2022,
+1318,Middle East,United Arab Emirates,21.646499633789062,IEA,Energy,Offshore gas,Fugitive,2022,
+1319,Middle East,United Arab Emirates,46.968299865722656,IEA,Energy,Offshore gas,Vented,2022,
+1320,Middle East,United Arab Emirates,38.45009994506836,IEA,Energy,Offshore oil,Flared,2022,
+1321,Middle East,United Arab Emirates,32.55339813232422,IEA,Energy,Offshore oil,Fugitive,2022,
+1322,Middle East,United Arab Emirates,441.0360107421875,IEA,Energy,Offshore oil,Vented,2022,
+1323,Middle East,United Arab Emirates,43.50379943847656,IEA,Energy,Onshore gas,Fugitive,2022,
+1324,Middle East,United Arab Emirates,94.39409637451172,IEA,Energy,Onshore gas,Vented,2022,
+1325,Middle East,United Arab Emirates,36.26440048217773,IEA,Energy,Onshore oil,Flared,2022,
+1326,Middle East,United Arab Emirates,36.86650085449219,IEA,Energy,Onshore oil,Fugitive,2022,
+1327,Middle East,United Arab Emirates,499.4710083007813,IEA,Energy,Onshore oil,Vented,2022,
+1328,Middle East,United Arab Emirates,0.8920000195503235,IEA,Energy,Other from coal,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+1329,Middle East,United Arab Emirates,13.071184158325195,IEA,Energy,Other from oil and gas,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+1330,Middle East,United Arab Emirates,1439.1328125,IEA,Energy,Total,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+1334,Middle East,Yemen,0.363999992609024,IEA,Energy,Bioenergy,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+1335,Middle East,Yemen,1.1976900100708008,IEA,Energy,Gas pipelines and LNG facilities,Fugitive,2022,
+1336,Middle East,Yemen,0.6386070251464844,IEA,Energy,Gas pipelines and LNG facilities,Vented,2022,
+1337,Middle East,Yemen,0.1384650021791458,IEA,Energy,Onshore gas,Fugitive,2022,
+1338,Middle East,Yemen,0.3004390001296997,IEA,Energy,Onshore gas,Vented,2022,
+1339,Middle East,Yemen,40.5463981628418,IEA,Energy,Onshore oil,Flared,2022,
+1340,Middle East,Yemen,6.669539928436279,IEA,Energy,Onshore oil,Fugitive,2022,
+1341,Middle East,Yemen,90.3594970703125,IEA,Energy,Onshore oil,Vented,2022,
+1342,Middle East,Yemen,0.0280000008642673,IEA,Energy,Other from coal,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+1343,Middle East,Yemen,1.5389634370803833,IEA,Energy,Other from oil and gas,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+1344,Middle East,Yemen,3.400000095367432,IEA,Energy,Satellite-detected large oil and gas emissions,All,2022,
+1345,Middle East,Yemen,145.18161010742188,IEA,Energy,Total,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+1349,North America,Canada,36.95600128173828,IEA,Energy,Bioenergy,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+1350,North America,Canada,56.25040054321289,IEA,Energy,Coking coal,All,2022,
+1351,North America,Canada,149.77000427246094,IEA,Energy,Gas pipelines and LNG facilities,Fugitive,2022,
+1352,North America,Canada,79.85769653320312,IEA,Energy,Gas pipelines and LNG facilities,Vented,2022,
+1353,North America,Canada,0.1137240007519722,IEA,Energy,Offshore gas,Fugitive,2022,
+1354,North America,Canada,0.2467570006847381,IEA,Energy,Offshore gas,Vented,2022,
+1355,North America,Canada,323.2640075683594,IEA,Energy,Onshore gas,Fugitive,2022,
+1356,North America,Canada,701.4169921875,IEA,Energy,Onshore gas,Vented,2022,
+1357,North America,Canada,34.76959991455078,IEA,Energy,Onshore oil,Flared,2022,
+1358,North America,Canada,75.05500030517578,IEA,Energy,Onshore oil,Fugitive,2022,
+1359,North America,Canada,1016.8499755859376,IEA,Energy,Onshore oil,Vented,2022,
+1360,North America,Canada,1.7416280508041382,IEA,Energy,Other from coal,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+1361,North America,Canada,57.55759048461914,IEA,Energy,Other from oil and gas,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+1362,North America,Canada,14.549099922180176,IEA,Energy,Steam coal,All,2022,
+1363,North America,Canada,2548.3984375,IEA,Energy,Total,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+1367,North America,Mexico,74.12000274658203,IEA,Energy,Bioenergy,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+1368,North America,Mexico,33.445701599121094,IEA,Energy,Coking coal,All,2022,
+1369,North America,Mexico,171.9029998779297,IEA,Energy,Gas pipelines and LNG facilities,Fugitive,2022,
+1370,North America,Mexico,91.65859985351562,IEA,Energy,Gas pipelines and LNG facilities,Vented,2022,
+1371,North America,Mexico,15.506099700927734,IEA,Energy,Offshore gas,Fugitive,2022,
+1372,North America,Mexico,33.644901275634766,IEA,Energy,Offshore gas,Vented,2022,
+1373,North America,Mexico,195.1060028076172,IEA,Energy,Offshore oil,Flared,2022,
+1374,North America,Mexico,35.652198791503906,IEA,Energy,Offshore oil,Fugitive,2022,
+1375,North America,Mexico,483.0199890136719,IEA,Energy,Offshore oil,Vented,2022,
+1376,North America,Mexico,27.29030036926269,IEA,Energy,Onshore gas,Fugitive,2022,
+1377,North America,Mexico,59.21419906616211,IEA,Energy,Onshore gas,Vented,2022,
+1378,North America,Mexico,64.87930297851562,IEA,Energy,Onshore oil,Flared,2022,
+1379,North America,Mexico,15.19279956817627,IEA,Energy,Onshore oil,Fugitive,2022,
+1380,North America,Mexico,205.83399963378903,IEA,Energy,Onshore oil,Vented,2022,
+1381,North America,Mexico,0.9892163872718812,IEA,Energy,Other from coal,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+1382,North America,Mexico,55.0184211730957,IEA,Energy,Other from oil and gas,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+1383,North America,Mexico,18.85449981689453,IEA,Energy,Steam coal,All,2022,
+1384,North America,Mexico,1581.3292236328125,IEA,Energy,Total,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+1388,North America,United States,237.843994140625,IEA,Energy,Bioenergy,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+1389,North America,United States,829.1829833984375,IEA,Energy,Coking coal,All,2022,
+1390,North America,United States,1781.3699951171875,IEA,Energy,Gas pipelines and LNG facilities,Fugitive,2022,
+1391,North America,United States,949.8289794921876,IEA,Energy,Gas pipelines and LNG facilities,Vented,2022,
+1392,North America,United States,19.60790061950684,IEA,Energy,Offshore gas,Fugitive,2022,
+1393,North America,United States,42.54499816894531,IEA,Energy,Offshore gas,Vented,2022,
+1394,North America,United States,21.64189910888672,IEA,Energy,Offshore oil,Flared,2022,
+1395,North America,United States,18.310400009155277,IEA,Energy,Offshore oil,Fugitive,2022,
+1396,North America,United States,248.07000732421875,IEA,Energy,Offshore oil,Vented,2022,
+1397,North America,United States,1756.949951171875,IEA,Energy,Onshore gas,Fugitive,2022,
+1398,North America,United States,3812.2099609375,IEA,Energy,Onshore gas,Vented,2022,
+1399,North America,United States,436.62298583984375,IEA,Energy,Onshore oil,Flared,2022,
+1400,North America,United States,309.15899658203125,IEA,Energy,Onshore oil,Fugitive,2022,
+1401,North America,United States,4188.52001953125,IEA,Energy,Onshore oil,Vented,2022,
+1402,North America,United States,22.06521987915039,IEA,Energy,Other from coal,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+1403,North America,United States,569.8220825195312,IEA,Energy,Other from oil and gas,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+1404,North America,United States,357.6000061035156,IEA,Energy,Satellite-detected large oil and gas emissions,All,2022,
+1405,North America,United States,1168.280029296875,IEA,Energy,Steam coal,All,2022,
+1406,North America,United States,16769.630859375,IEA,Energy,Total,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+1431,Russia & Caspian,Azerbaijan,0.3799999952316284,IEA,Energy,Bioenergy,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+1432,Russia & Caspian,Azerbaijan,21.31760025024414,IEA,Energy,Gas pipelines and LNG facilities,Fugitive,2022,
+1433,Russia & Caspian,Azerbaijan,11.366499900817873,IEA,Energy,Gas pipelines and LNG facilities,Vented,2022,
+1434,Russia & Caspian,Azerbaijan,27.93440055847168,IEA,Energy,Offshore gas,Fugitive,2022,
+1435,Russia & Caspian,Azerbaijan,60.61180114746094,IEA,Energy,Offshore gas,Vented,2022,
+1436,Russia & Caspian,Azerbaijan,6.79315996170044,IEA,Energy,Offshore oil,Flared,2022,
+1437,Russia & Caspian,Azerbaijan,10.47410011291504,IEA,Energy,Offshore oil,Fugitive,2022,
+1438,Russia & Caspian,Azerbaijan,141.90499877929688,IEA,Energy,Offshore oil,Vented,2022,
+1439,Russia & Caspian,Azerbaijan,0.3159739971160888,IEA,Energy,Onshore gas,Fugitive,2022,
+1440,Russia & Caspian,Azerbaijan,0.6855980157852173,IEA,Energy,Onshore gas,Vented,2022,
+1441,Russia & Caspian,Azerbaijan,1.0231499671936035,IEA,Energy,Onshore oil,Flared,2022,
+1442,Russia & Caspian,Azerbaijan,2.5294198989868164,IEA,Energy,Onshore oil,Fugitive,2022,
+1443,Russia & Caspian,Azerbaijan,34.268798828125,IEA,Energy,Onshore oil,Vented,2022,
+1444,Russia & Caspian,Azerbaijan,3.6494603157043457,IEA,Energy,Other from oil and gas,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+1445,Russia & Caspian,Azerbaijan,323.2549743652344,IEA,Energy,Total,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+1449,Russia & Caspian,Kazakhstan,0.6039999723434448,IEA,Energy,Bioenergy,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+1450,Russia & Caspian,Kazakhstan,103.28500366210938,IEA,Energy,Coking coal,All,2022,
+1451,Russia & Caspian,Kazakhstan,60.720401763916016,IEA,Energy,Gas pipelines and LNG facilities,Fugitive,2022,
+1452,Russia & Caspian,Kazakhstan,32.3760986328125,IEA,Energy,Gas pipelines and LNG facilities,Vented,2022,
+1453,Russia & Caspian,Kazakhstan,14.49530029296875,IEA,Energy,Offshore gas,Fugitive,2022,
+1454,Russia & Caspian,Kazakhstan,31.451799392700195,IEA,Energy,Offshore gas,Vented,2022,
+1455,Russia & Caspian,Kazakhstan,17.77440071105957,IEA,Energy,Offshore oil,Flared,2022,
+1456,Russia & Caspian,Kazakhstan,14.822199821472168,IEA,Energy,Offshore oil,Fugitive,2022,
+1457,Russia & Caspian,Kazakhstan,200.81300354003903,IEA,Energy,Offshore oil,Vented,2022,
+1458,Russia & Caspian,Kazakhstan,79.21119689941406,IEA,Energy,Onshore gas,Fugitive,2022,
+1459,Russia & Caspian,Kazakhstan,171.8719940185547,IEA,Energy,Onshore gas,Vented,2022,
+1460,Russia & Caspian,Kazakhstan,85.64119720458984,IEA,Energy,Onshore oil,Flared,2022,
+1461,Russia & Caspian,Kazakhstan,77.7677993774414,IEA,Energy,Onshore oil,Fugitive,2022,
+1462,Russia & Caspian,Kazakhstan,1053.6099853515625,IEA,Energy,Onshore oil,Vented,2022,
+1463,Russia & Caspian,Kazakhstan,54.939056396484375,IEA,Energy,Other from coal,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+1464,Russia & Caspian,Kazakhstan,13.901585578918455,IEA,Energy,Other from oil and gas,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+1465,Russia & Caspian,Kazakhstan,77.0,IEA,Energy,Satellite-detected large oil and gas emissions,All,2022,
+1466,Russia & Caspian,Kazakhstan,650.276123046875,IEA,Energy,Steam coal,All,2022,
+1467,Russia & Caspian,Kazakhstan,2740.561279296875,IEA,Energy,Total,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+1471,Russia & Caspian,Russia,28.38800048828125,IEA,Energy,Bioenergy,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+1472,Russia & Caspian,Russia,1810.6800537109373,IEA,Energy,Coking coal,All,2022,
+1473,Russia & Caspian,Russia,1231.3699951171875,IEA,Energy,Gas pipelines and LNG facilities,Fugitive,2022,
+1474,Russia & Caspian,Russia,656.5679931640625,IEA,Energy,Gas pipelines and LNG facilities,Vented,2022,
+1475,Russia & Caspian,Russia,35.04520034790039,IEA,Energy,Offshore gas,Fugitive,2022,
+1476,Russia & Caspian,Russia,76.04080200195312,IEA,Energy,Offshore gas,Vented,2022,
+1477,Russia & Caspian,Russia,32.23789978027344,IEA,Energy,Offshore oil,Flared,2022,
+1478,Russia & Caspian,Russia,9.273099899291992,IEA,Energy,Offshore oil,Fugitive,2022,
+1479,Russia & Caspian,Russia,125.63300323486328,IEA,Energy,Offshore oil,Vented,2022,
+1480,Russia & Caspian,Russia,1256.52001953125,IEA,Energy,Onshore gas,Fugitive,2022,
+1481,Russia & Caspian,Russia,2726.389892578125,IEA,Energy,Onshore gas,Vented,2022,
+1482,Russia & Caspian,Russia,1168.010009765625,IEA,Energy,Onshore oil,Flared,2022,
+1483,Russia & Caspian,Russia,353.1310119628906,IEA,Energy,Onshore oil,Fugitive,2022,
+1484,Russia & Caspian,Russia,4784.25,IEA,Energy,Onshore oil,Vented,2022,
+1485,Russia & Caspian,Russia,75.20860290527344,IEA,Energy,Other from coal,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+1486,Russia & Caspian,Russia,103.70838928222656,IEA,Energy,Other from oil and gas,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+1487,Russia & Caspian,Russia,1014.0,IEA,Energy,Satellite-detected large oil and gas emissions,All,2022,
+1488,Russia & Caspian,Russia,2591.6298828125,IEA,Energy,Steam coal,All,2022,
+1489,Russia & Caspian,Russia,18078.083984375,IEA,Energy,Total,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+1493,Russia & Caspian,Turkmenistan,0.0879999995231628,IEA,Energy,Bioenergy,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+1494,Russia & Caspian,Turkmenistan,312.3999938964844,IEA,Energy,Gas pipelines and LNG facilities,Fugitive,2022,
+1495,Russia & Caspian,Turkmenistan,166.57200622558594,IEA,Energy,Gas pipelines and LNG facilities,Vented,2022,
+1496,Russia & Caspian,Turkmenistan,42.4369010925293,IEA,Energy,Offshore gas,Fugitive,2022,
+1497,Russia & Caspian,Turkmenistan,92.0792999267578,IEA,Energy,Offshore gas,Vented,2022,
+1498,Russia & Caspian,Turkmenistan,79.73259735107422,IEA,Energy,Offshore oil,Flared,2022,
+1499,Russia & Caspian,Turkmenistan,21.701000213623047,IEA,Energy,Offshore oil,Fugitive,2022,
+1500,Russia & Caspian,Turkmenistan,294.00799560546875,IEA,Energy,Offshore oil,Vented,2022,
+1501,Russia & Caspian,Turkmenistan,600.8790283203125,IEA,Energy,Onshore gas,Fugitive,2022,
+1502,Russia & Caspian,Turkmenistan,1303.780029296875,IEA,Energy,Onshore gas,Vented,2022,
+1503,Russia & Caspian,Turkmenistan,71.36699676513672,IEA,Energy,Onshore oil,Flared,2022,
+1504,Russia & Caspian,Turkmenistan,25.29610061645508,IEA,Energy,Onshore oil,Fugitive,2022,
+1505,Russia & Caspian,Turkmenistan,342.7149963378906,IEA,Energy,Onshore oil,Vented,2022,
+1506,Russia & Caspian,Turkmenistan,6.9859538078308105,IEA,Energy,Other from oil and gas,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+1507,Russia & Caspian,Turkmenistan,1380.0,IEA,Energy,Satellite-detected large oil and gas emissions,All,2022,
+1508,Russia & Caspian,Turkmenistan,4740.041015625,IEA,Energy,Total,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+1512,Russia & Caspian,Uzbekistan,0.0120000001043081,IEA,Energy,Bioenergy,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+1513,Russia & Caspian,Uzbekistan,151.17100524902344,IEA,Energy,Gas pipelines and LNG facilities,Fugitive,2022,
+1514,Russia & Caspian,Uzbekistan,80.60440063476562,IEA,Energy,Gas pipelines and LNG facilities,Vented,2022,
+1515,Russia & Caspian,Uzbekistan,127.38899993896484,IEA,Energy,Onshore gas,Fugitive,2022,
+1516,Russia & Caspian,Uzbekistan,276.4079895019531,IEA,Energy,Onshore gas,Vented,2022,
+1517,Russia & Caspian,Uzbekistan,36.357398986816406,IEA,Energy,Onshore oil,Flared,2022,
+1518,Russia & Caspian,Uzbekistan,4.675829887390137,IEA,Energy,Onshore oil,Fugitive,2022,
+1519,Russia & Caspian,Uzbekistan,63.34859848022461,IEA,Energy,Onshore oil,Vented,2022,
+1520,Russia & Caspian,Uzbekistan,5.676000118255615,IEA,Energy,Other from coal,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+1521,Russia & Caspian,Uzbekistan,16.97391700744629,IEA,Energy,Other from oil and gas,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
+1522,Russia & Caspian,Uzbekistan,18.299999237060547,IEA,Energy,Satellite-detected large oil and gas emissions,All,2022,
+1523,Russia & Caspian,Uzbekistan,780.9161376953125,IEA,Energy,Total,All,2022,"Estimates from end-uses are for 2020 or 2021 (IEA, Greenhouse gas emissions from energy, 2022, https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy)"
