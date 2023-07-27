@@ -24,20 +24,25 @@ app = Dash(__name__)
 app.layout = html.Div([
     html.Div([
         html.H1("Figure 1"),
-        dcc.Graph()
+        dcc.Graph(),
+        className="section1"
         ]),
     html.Div([
         html.H1("Figure 3"),
-        dcc.Graph()
+        dcc.Graph(),
+        className="section2"
         ]),
      html.Div([
         html.H1("Figure 4"),
-        dcc.Graph()
+        dcc.Graph(),
+        className="section4"
         ]),
      html.Div([
         html.H1("Figure 5"),
-        dcc.Graph()
-        ])
+        dcc.Graph(),
+         className="section5"
+        ]),
+    className="mainSection"
 ])
 
 
