@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+  }
+
+
+
+.mainSection{
+    background-color: aquamarine;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.Dasboard-title{
+    background-color: #73C6B6;
+    width: 50%;
+}
+
+h1{
+    
+}
