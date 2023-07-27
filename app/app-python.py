@@ -23,7 +23,20 @@ app = Dash(__name__)
 # App layout
 app.layout = html.Div([
     html.Div([
-        html.H1("Figure 1")
+        html.H1("Figure 1"),
+        dcc.Graph()
+        ]),
+    html.Div([
+        html.H1("Figure 3"),
+        dcc.Graph()
+        ]),
+     html.Div([
+        html.H1("Figure 4"),
+        dcc.Graph()
+        ]),
+     html.Div([
+        html.H1("Figure 5"),
+        dcc.Graph()
         ])
 ])
 
