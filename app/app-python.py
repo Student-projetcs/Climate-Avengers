@@ -22,28 +22,24 @@ app = Dash(__name__)
 
 # App layout
 app.layout = html.Div([
+    html.H1("Dashboard title", className="Dasboard-title"),
     html.Div([
         html.H1("Figure 1"),
-        dcc.Graph(),
-        className="section1"
-        ]),
+        dcc.Graph()
+        ],className="section1"),
     html.Div([
         html.H1("Figure 3"),
         dcc.Graph(),
-        className="section2"
-        ]),
+        ], className="section2"),
      html.Div([
         html.H1("Figure 4"),
-        dcc.Graph(),
-        className="section4"
-        ]),
+        dcc.Graph()
+        ], className="section4"),
      html.Div([
         html.H1("Figure 5"),
-        dcc.Graph(),
-         className="section5"
-        ]),
-    className="mainSection"
-])
+        dcc.Graph()
+        ], className="section5"),
+    ], className="mainSection")
 
 
 # Run the app
