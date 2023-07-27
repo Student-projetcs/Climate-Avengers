@@ -2,7 +2,7 @@
 import pandas as pd
 import plotly.express as px
 import dash
-from dash import Dash, html, dcc
+from dash import Dash, html, dcc, Input, Output
 
 #Dataset importation 1
 
@@ -27,37 +27,14 @@ app.layout = html.Div([
         dcc.Graph()
         ]),
     html.Div([
-        
-        html.H1('Temperature Changes Over Time'),
+        html.H4('Temperature Change'),
         dcc.Graph(id="graph"),
         dcc.Checklist(
             id="checklist",
             options=["Asia", "Europe", "Africa","Americas","Oceania",'Global Avg'],
-            value=[ "Global Avg"],
+            value=['Africa','Asia',"Americas",'Europe', "Oceania",'Global Avg'],
             inline=True
         ),
-    
-])
-
-@app.callback(
-    Output("graph", "figure"),
-    Input("checklist", "value"))
-    
-def update_line_chart(continents):
-
-    mask = df.Continent.isin(continents)
-    fig = px.line(df[mask], x=df[mask]['Year'], y=df[mask]['Temp Change'], color=df[mask]['Continent'])
-
-
-    fig.update_layout(
-    xaxis_title="Year",
-    yaxis_title="Temperature Change",
-    legend_title="",
-   )
-
-    return fig
-
-        
         ]),
      html.Div([
         html.H1("Figure 4"),
@@ -69,6 +46,21 @@ def update_line_chart(continents):
         ])
 ])
 
+@app.callback(
+    Output("graph", "figure"), 
+    Input("checklist", "value"))
+
+def update_line_chart(continents):
+  
+    mask = df.Continent.isin(continents)
+    fig = px.line(df[mask], x=df[mask]['Year'], y=df[mask]['Temp Change'], color=df[mask]['Continent'])
+    
+    fig.update_layout(
+    xaxis_title="Year",
+    yaxis_title="Temperature Change",
+    legend_title="",
+   )
+    return fig
 
 # Run the app
 if __name__ == '__main__':
