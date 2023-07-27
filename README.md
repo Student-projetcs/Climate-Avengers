@@ -13,7 +13,7 @@ As part of the final project for the TechTalent Data Science Bootcamp, our group
 The Data Analysis Dashboard offers the following key features:
 - Interactive Visualizations: Utilizing Plotly and Dash, the dashboard presents dynamic and interactive visualizations, enabling users to customize the charts and plots based on their preferences.
 - Data Manipulation: We use Python and Pandas to perform data cleaning, preprocessing, and transformation to ensure the climate data is in an optimal format for analysis.
-- Dataset Selection: Users can select from multiple freely available climate change datasets obtained from Kaggle and World of Data, or they can upload their datasets for analysis.
+- Dataset Selection: We use freely available climate change datasets obtained from Kaggle and World of Data.
 - Comparative Analysis: The dashboard allows users to compare different climate variables, apply filters, and examine patterns in the data.
 - Export and Sharing: Users can export the generated visualizations in various formats or share them with others effortlessly.
 
