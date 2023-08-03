@@ -51,7 +51,7 @@ app = Dash(__name__)
 app.layout = html.Div([
     html.H1("Dashboard title", className="Dasboard-title"),
     html.Div([
-        html.H1(""IEA estimates for methane emissions (kilotonnes) by country in 2022"),
+        html.H1("IEA estimates for methane emissions (kilotonnes) by country in 2022"),
         dcc.Graph(figure=fig1)
         ],className="section1"),
     html.Div([
