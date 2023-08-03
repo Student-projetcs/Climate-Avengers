@@ -9,15 +9,11 @@
 
 .mainSection{
     background-color: aquamarine;
-    display: flex;
-    flex-wrap: wrap;
 }
 
 .Dasboard-title{
     background-color: #73C6B6;
-    width: 50%;
-}
-
-h1{
-    
+     display: block;
+    text-align: center;
+    font-size: 3.5rem;
 }
