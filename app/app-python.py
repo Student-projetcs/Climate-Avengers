@@ -49,7 +49,7 @@ app = Dash(__name__)
 
 # App layout
 app.layout = html.Div([
-    html.H1("Dashboard title", className="Dasboard-title"),
+    html.H1("CLIMATE CHANGE ANALYTICS", className="Dasboard-title"),
     html.Div([
         html.H1("IEA estimates for methane emissions (kilotonnes) by country in 2022"),
         dcc.Graph(figure=fig1)
