@@ -5,7 +5,8 @@ import dash
 from dash import Dash, html, dcc
 
 #Dataset importation 1
-df= pd.read_csv("Methane_emissions_cleaned.csv")
+url1="https://raw.githubusercontent.com/Student-projetcs/Climate-Avengers/main/datasets/Methane_emissions_cleaned.csv"
+df= pd.read_csv(url1)
 #Dataset importation 2
 
 #Dataset importation 3
