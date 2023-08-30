@@ -1,19 +1,50 @@
-@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap');
+/* Archivo font */
+@import url('https://fonts.googleapis.com/css2?family=Archivo+Black&family=Borel&family=Chela+One&family=Inter:wght@300&family=Montserrat:ital@1&family=Pacifico&display=swap');
+
+/* Roboto font */
+@import url('https://fonts.googleapis.com/css2?family=Archivo+Black&family=Borel&family=Chela+One&family=Inter:wght@300&family=Montserrat:ital@1&family=Pacifico&family=Roboto&display=swap');
+
 
 *{
     margin: 0;
     padding: 0;
   }
 
+.main-section{
 
+    background-image: url('background.svg');
 
-.mainSection{
-    background-color: aquamarine;
 }
 
+.inner-div{
+    width: 90%;
+    margin: 0 auto;
+
+}
 .Dasboard-title{
-    background-color: #73C6B6;
-     display: block;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    display: block;
     text-align: center;
     font-size: 3.5rem;
+    font-family: Archivo Black;
+}
+
+.section1{
+    position: relative;
+    left: 0;
+    padding-top: 50px;
+    width: 50%;
+}
+
+.section2{
+    width: 50%;
+    padding-top: 50px;
+    float: right;
+}
+
+.title{
+    text-align: center;
+    font-size: 1.8vw;
+    font-family: Roboto;
 }
